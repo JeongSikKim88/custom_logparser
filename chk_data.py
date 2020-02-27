@@ -23,7 +23,7 @@ def chk_old():
         # print(json.dumps(data['request_record'][i]['total'], indent = 4, sort_keys=True))
         
         
-        oldSum += int(json.dumps(data['request_record'][i]['total'], indent = 4, sort_keys=True))
+        oldSum += float(json.dumps(data['request_record'][i]['total'], indent = 4, sort_keys=True))
         # print (json.dumps(data['request_record'][i]['time']),json.dumps(data['request_record'][i]['total']))
         # print (sum)
         # print (" sum : ",oldSum)
@@ -50,7 +50,7 @@ def chk_new():
         # print(json.dumps(data['request_record'][i]['total'], indent = 4, sort_keys=True))
         
         
-        newSum += int(json.dumps(data['request_record'][i]['total'], indent = 4, sort_keys=True))
+        newSum += float(json.dumps(data['request_record'][i]['total'], indent = 4, sort_keys=True))
         # print (json.dumps(data['request_record'][i]['time']),json.dumps(data['request_record'][i]['total']))
         # print (sum)
         # print (" sum : ",newSum)
@@ -62,16 +62,12 @@ def percent():
     chk_new()
     print("newSum : ", newSum)
     
+    print((oldSum-newSum)/newSum)
     print(float((oldSum-newSum)/newSum*100))
 
-    # print("error_percentage : ", round((oldSum-newSum)/newSum*100,4))
+    print("error_percentage : ", float((oldSum-newSum)/newSum*100))
 
 if __name__ == "__main__":
     # chk_old()
     # chk_new()
     percent()
-
-
-
-
-
