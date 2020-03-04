@@ -1,7 +1,5 @@
 # from json_parser import parser
 import json
-import chk_newAPI
-import chk_newAPI
 
 def chk_old():
     with open('oldAPI.json') as data_file:
@@ -18,7 +16,7 @@ def chk_old():
     i=0
     global oldSum
     oldSum=0
-    for i in range(9,22):
+    for i in range(21,33):
 
         i+=1
         # print("count :", i)
@@ -45,7 +43,7 @@ def chk_new():
     i=0
     global newSum
     newSum =0
-    for i in range(10,23):
+    for i in range(22,35):
 
         i+=1
         # print("count :", i)
@@ -60,13 +58,17 @@ def chk_new():
 
 def percent():
     chk_old()
-    print("oldSum : ",oldSum)
+    print("oldSum : ", oldSum)
     chk_new()
     print("newSum : ", newSum)
+
+
+    # print(oldSum-newSum)
+    print((oldSum-newSum)/newSum)
     
-    # print(type(oldSum-newSum))
-    # print((oldSum-newSum)/newSum)
-    # print(float((oldSum-newSum)/newSum*100))
+    error = ((oldSum-newSum)/newSum)*100
+
+    # print(error)
 
     print("error_percentage : ", round((oldSum-newSum)/newSum*100,4))
 
@@ -74,3 +76,8 @@ if __name__ == "__main__":
     # chk_old()
     # chk_new()
     percent()
+
+
+
+
+

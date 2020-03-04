@@ -1,0 +1,4333 @@
+{
+    "date_unit": "minute", 
+    "domain_list": [
+        "nclauncherw.download.ncupdate.com", 
+        "total"
+    ], 
+    "request_record": [
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 00:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 01:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 02:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 03:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 04:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 05:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 06:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 07:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 08:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 09:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 10:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 11:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 12:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 13:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 14:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 15:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 16:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 17:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 18:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 19:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 20:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 21:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:40:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 22:55:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:00:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:05:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:10:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:15:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:20:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:25:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:30:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:35:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1, 
+            "time": "2020-02-29 23:40:00", 
+            "total": 1
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:45:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:50:00", 
+            "total": 0
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 0, 
+            "time": "2020-02-29 23:55:00", 
+            "total": 0
+        }
+    ], 
+    "traffic_record": [
+        {
+            "nclauncherw.download.ncupdate.com": 209800395, 
+            "time": "2020-02-29 00:00:00", 
+            "total": 209800395
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 138321968, 
+            "time": "2020-02-29 00:05:00", 
+            "total": 138321968
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 115929341, 
+            "time": "2020-02-29 00:10:00", 
+            "total": 115929341
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 103676648, 
+            "time": "2020-02-29 00:15:00", 
+            "total": 103676648
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 138940526, 
+            "time": "2020-02-29 00:20:00", 
+            "total": 138940526
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 143863024, 
+            "time": "2020-02-29 00:25:00", 
+            "total": 143863024
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 145509825, 
+            "time": "2020-02-29 00:30:00", 
+            "total": 145509825
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 156928439, 
+            "time": "2020-02-29 00:35:00", 
+            "total": 156928439
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 89394610, 
+            "time": "2020-02-29 00:40:00", 
+            "total": 89394610
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 82911831, 
+            "time": "2020-02-29 00:45:00", 
+            "total": 82911831
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 109068021, 
+            "time": "2020-02-29 00:50:00", 
+            "total": 109068021
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 80438238, 
+            "time": "2020-02-29 00:55:00", 
+            "total": 80438238
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 85632152, 
+            "time": "2020-02-29 01:00:00", 
+            "total": 85632152
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21825891, 
+            "time": "2020-02-29 01:05:00", 
+            "total": 21825891
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 54523071, 
+            "time": "2020-02-29 01:10:00", 
+            "total": 54523071
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 66171873, 
+            "time": "2020-02-29 01:15:00", 
+            "total": 66171873
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 92770607, 
+            "time": "2020-02-29 01:20:00", 
+            "total": 92770607
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 51389423, 
+            "time": "2020-02-29 01:25:00", 
+            "total": 51389423
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 45216158, 
+            "time": "2020-02-29 01:30:00", 
+            "total": 45216158
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 74874871, 
+            "time": "2020-02-29 01:35:00", 
+            "total": 74874871
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 54564697, 
+            "time": "2020-02-29 01:40:00", 
+            "total": 54564697
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21825871, 
+            "time": "2020-02-29 01:45:00", 
+            "total": 21825871
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 60311855, 
+            "time": "2020-02-29 01:50:00", 
+            "total": 60311855
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 65609548, 
+            "time": "2020-02-29 01:55:00", 
+            "total": 65609548
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 82286878, 
+            "time": "2020-02-29 02:00:00", 
+            "total": 82286878
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 72219459, 
+            "time": "2020-02-29 02:05:00", 
+            "total": 72219459
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 70421840, 
+            "time": "2020-02-29 02:10:00", 
+            "total": 70421840
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 55517227, 
+            "time": "2020-02-29 02:15:00", 
+            "total": 55517227
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 70934156, 
+            "time": "2020-02-29 02:20:00", 
+            "total": 70934156
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 93358831, 
+            "time": "2020-02-29 02:25:00", 
+            "total": 93358831
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 65429042, 
+            "time": "2020-02-29 02:30:00", 
+            "total": 65429042
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 103672836, 
+            "time": "2020-02-29 02:35:00", 
+            "total": 103672836
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 49110185, 
+            "time": "2020-02-29 02:40:00", 
+            "total": 49110185
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 76390551, 
+            "time": "2020-02-29 02:45:00", 
+            "total": 76390551
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 33132264, 
+            "time": "2020-02-29 02:50:00", 
+            "total": 33132264
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 54888668, 
+            "time": "2020-02-29 02:55:00", 
+            "total": 54888668
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 38195275, 
+            "time": "2020-02-29 03:00:00", 
+            "total": 38195275
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 43651743, 
+            "time": "2020-02-29 03:05:00", 
+            "total": 43651743
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 49414211, 
+            "time": "2020-02-29 03:10:00", 
+            "total": 49414211
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 16369410, 
+            "time": "2020-02-29 03:15:00", 
+            "total": 16369410
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 38195257, 
+            "time": "2020-02-29 03:20:00", 
+            "total": 38195257
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 60021165, 
+            "time": "2020-02-29 03:25:00", 
+            "total": 60021165
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21825860, 
+            "time": "2020-02-29 03:30:00", 
+            "total": 21825860
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 43924147, 
+            "time": "2020-02-29 03:35:00", 
+            "total": 43924147
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 38578493, 
+            "time": "2020-02-29 03:40:00", 
+            "total": 38578493
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 35867138, 
+            "time": "2020-02-29 03:45:00", 
+            "total": 35867138
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 27301005, 
+            "time": "2020-02-29 03:50:00", 
+            "total": 27301005
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6213255, 
+            "time": "2020-02-29 03:55:00", 
+            "total": 6213255
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 59050813, 
+            "time": "2020-02-29 04:00:00", 
+            "total": 59050813
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 22942200, 
+            "time": "2020-02-29 04:05:00", 
+            "total": 22942200
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 38195312, 
+            "time": "2020-02-29 04:10:00", 
+            "total": 38195312
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 16504864, 
+            "time": "2020-02-29 04:15:00", 
+            "total": 16504864
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 49108175, 
+            "time": "2020-02-29 04:20:00", 
+            "total": 49108175
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 32738832, 
+            "time": "2020-02-29 04:25:00", 
+            "total": 32738832
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 38195257, 
+            "time": "2020-02-29 04:30:00", 
+            "total": 38195257
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 28309350, 
+            "time": "2020-02-29 04:35:00", 
+            "total": 28309350
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 23050063, 
+            "time": "2020-02-29 04:40:00", 
+            "total": 23050063
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 16369403, 
+            "time": "2020-02-29 04:45:00", 
+            "total": 16369403
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 43875590, 
+            "time": "2020-02-29 04:50:00", 
+            "total": 43875590
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 43291090, 
+            "time": "2020-02-29 04:55:00", 
+            "total": 43291090
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 27282365, 
+            "time": "2020-02-29 05:00:00", 
+            "total": 27282365
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 27290152, 
+            "time": "2020-02-29 05:05:00", 
+            "total": 27290152
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 54566814, 
+            "time": "2020-02-29 05:10:00", 
+            "total": 54566814
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 22150225, 
+            "time": "2020-02-29 05:15:00", 
+            "total": 22150225
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 38199103, 
+            "time": "2020-02-29 05:20:00", 
+            "total": 38199103
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 10912935, 
+            "time": "2020-02-29 05:25:00", 
+            "total": 10912935
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 16369385, 
+            "time": "2020-02-29 05:30:00", 
+            "total": 16369385
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5456467, 
+            "time": "2020-02-29 05:35:00", 
+            "total": 5456467
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 18885994, 
+            "time": "2020-02-29 05:40:00", 
+            "total": 18885994
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 10921877, 
+            "time": "2020-02-29 05:45:00", 
+            "total": 10921877
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5456474, 
+            "time": "2020-02-29 05:50:00", 
+            "total": 5456474
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 10912935, 
+            "time": "2020-02-29 05:55:00", 
+            "total": 10912935
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 43656118, 
+            "time": "2020-02-29 06:00:00", 
+            "total": 43656118
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21825871, 
+            "time": "2020-02-29 06:05:00", 
+            "total": 21825871
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 27282358, 
+            "time": "2020-02-29 06:10:00", 
+            "total": 27282358
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 16369403, 
+            "time": "2020-02-29 06:15:00", 
+            "total": 16369403
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 16369403, 
+            "time": "2020-02-29 06:20:00", 
+            "total": 16369403
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 10912935, 
+            "time": "2020-02-29 06:25:00", 
+            "total": 10912935
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 32738807, 
+            "time": "2020-02-29 06:30:00", 
+            "total": 32738807
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 10912935, 
+            "time": "2020-02-29 06:35:00", 
+            "total": 10912935
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 16419657, 
+            "time": "2020-02-29 06:40:00", 
+            "total": 16419657
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 27338140, 
+            "time": "2020-02-29 06:45:00", 
+            "total": 27338140
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 54962157, 
+            "time": "2020-02-29 06:50:00", 
+            "total": 54962157
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 43651842, 
+            "time": "2020-02-29 06:55:00", 
+            "total": 43651842
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 12028116, 
+            "time": "2020-02-29 07:00:00", 
+            "total": 12028116
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21825890, 
+            "time": "2020-02-29 07:05:00", 
+            "total": 21825890
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5456467, 
+            "time": "2020-02-29 07:10:00", 
+            "total": 5456467
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 38195275, 
+            "time": "2020-02-29 07:15:00", 
+            "total": 38195275
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 27282358, 
+            "time": "2020-02-29 07:20:00", 
+            "total": 27282358
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 16369385, 
+            "time": "2020-02-29 07:25:00", 
+            "total": 16369385
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 16942716, 
+            "time": "2020-02-29 07:30:00", 
+            "total": 16942716
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21955252, 
+            "time": "2020-02-29 07:35:00", 
+            "total": 21955252
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 27282358, 
+            "time": "2020-02-29 07:40:00", 
+            "total": 27282358
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 70182332, 
+            "time": "2020-02-29 07:45:00", 
+            "total": 70182332
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 32738789, 
+            "time": "2020-02-29 07:50:00", 
+            "total": 32738789
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21825890, 
+            "time": "2020-02-29 07:55:00", 
+            "total": 21825890
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 43651725, 
+            "time": "2020-02-29 08:00:00", 
+            "total": 43651725
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 19061585, 
+            "time": "2020-02-29 08:05:00", 
+            "total": 19061585
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21911821, 
+            "time": "2020-02-29 08:10:00", 
+            "total": 21911821
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21830017, 
+            "time": "2020-02-29 08:15:00", 
+            "total": 21830017
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 65488544, 
+            "time": "2020-02-29 08:20:00", 
+            "total": 65488544
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21825908, 
+            "time": "2020-02-29 08:25:00", 
+            "total": 21825908
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 21825871, 
+            "time": "2020-02-29 08:30:00", 
+            "total": 21825871
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 49108211, 
+            "time": "2020-02-29 08:35:00", 
+            "total": 49108211
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 32738826, 
+            "time": "2020-02-29 08:40:00", 
+            "total": 32738826
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 65477579, 
+            "time": "2020-02-29 08:45:00", 
+            "total": 65477579
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 49108211, 
+            "time": "2020-02-29 08:50:00", 
+            "total": 49108211
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 33252275, 
+            "time": "2020-02-29 08:55:00", 
+            "total": 33252275
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 54564661, 
+            "time": "2020-02-29 09:00:00", 
+            "total": 54564661
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 65662491, 
+            "time": "2020-02-29 09:05:00", 
+            "total": 65662491
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 92988722, 
+            "time": "2020-02-29 09:10:00", 
+            "total": 92988722
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 52659283, 
+            "time": "2020-02-29 09:15:00", 
+            "total": 52659283
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 54575224, 
+            "time": "2020-02-29 09:20:00", 
+            "total": 54575224
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 65565135, 
+            "time": "2020-02-29 09:25:00", 
+            "total": 65565135
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 98326780, 
+            "time": "2020-02-29 09:30:00", 
+            "total": 98326780
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 60021202, 
+            "time": "2020-02-29 09:35:00", 
+            "total": 60021202
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 86263065, 
+            "time": "2020-02-29 09:40:00", 
+            "total": 86263065
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 32738807, 
+            "time": "2020-02-29 09:45:00", 
+            "total": 32738807
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 81847019, 
+            "time": "2020-02-29 09:50:00", 
+            "total": 81847019
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 27282339, 
+            "time": "2020-02-29 09:55:00", 
+            "total": 27282339
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 81847019, 
+            "time": "2020-02-29 10:00:00", 
+            "total": 81847019
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 60021147, 
+            "time": "2020-02-29 10:05:00", 
+            "total": 60021147
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 56133080, 
+            "time": "2020-02-29 10:10:00", 
+            "total": 56133080
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 70934101, 
+            "time": "2020-02-29 10:15:00", 
+            "total": 70934101
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 66844733, 
+            "time": "2020-02-29 10:20:00", 
+            "total": 66844733
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 58188152, 
+            "time": "2020-02-29 10:25:00", 
+            "total": 58188152
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 56270016, 
+            "time": "2020-02-29 10:30:00", 
+            "total": 56270016
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 77447277, 
+            "time": "2020-02-29 10:35:00", 
+            "total": 77447277
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 67078205, 
+            "time": "2020-02-29 10:40:00", 
+            "total": 67078205
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 61735944, 
+            "time": "2020-02-29 10:45:00", 
+            "total": 61735944
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 70944300, 
+            "time": "2020-02-29 10:50:00", 
+            "total": 70944300
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 71201443, 
+            "time": "2020-02-29 10:55:00", 
+            "total": 71201443
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 115899375, 
+            "time": "2020-02-29 11:00:00", 
+            "total": 115899375
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 92759980, 
+            "time": "2020-02-29 11:05:00", 
+            "total": 92759980
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 83004081, 
+            "time": "2020-02-29 11:10:00", 
+            "total": 83004081
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 87482724, 
+            "time": "2020-02-29 11:15:00", 
+            "total": 87482724
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 122136484, 
+            "time": "2020-02-29 11:20:00", 
+            "total": 122136484
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 75052027, 
+            "time": "2020-02-29 11:25:00", 
+            "total": 75052027
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 109129415, 
+            "time": "2020-02-29 11:30:00", 
+            "total": 109129415
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 66517777, 
+            "time": "2020-02-29 11:35:00", 
+            "total": 66517777
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 27510754, 
+            "time": "2020-02-29 11:40:00", 
+            "total": 27510754
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 89589225, 
+            "time": "2020-02-29 11:45:00", 
+            "total": 89589225
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 66535047, 
+            "time": "2020-02-29 11:50:00", 
+            "total": 66535047
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 108701064, 
+            "time": "2020-02-29 11:55:00", 
+            "total": 108701064
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 76390587, 
+            "time": "2020-02-29 12:00:00", 
+            "total": 76390587
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 76390587, 
+            "time": "2020-02-29 12:05:00", 
+            "total": 76390587
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 66982148, 
+            "time": "2020-02-29 12:10:00", 
+            "total": 66982148
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 82038134, 
+            "time": "2020-02-29 12:15:00", 
+            "total": 82038134
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 82257296, 
+            "time": "2020-02-29 12:20:00", 
+            "total": 82257296
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 76705891, 
+            "time": "2020-02-29 12:25:00", 
+            "total": 76705891
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 56814911, 
+            "time": "2020-02-29 12:30:00", 
+            "total": 56814911
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 65477636, 
+            "time": "2020-02-29 12:35:00", 
+            "total": 65477636
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 70826738, 
+            "time": "2020-02-29 12:40:00", 
+            "total": 70826738
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 141948562, 
+            "time": "2020-02-29 12:45:00", 
+            "total": 141948562
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 87055613, 
+            "time": "2020-02-29 12:50:00", 
+            "total": 87055613
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 112247534, 
+            "time": "2020-02-29 12:55:00", 
+            "total": 112247534
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 150216344, 
+            "time": "2020-02-29 13:00:00", 
+            "total": 150216344
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 89267547, 
+            "time": "2020-02-29 13:05:00", 
+            "total": 89267547
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 80748925, 
+            "time": "2020-02-29 13:10:00", 
+            "total": 80748925
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 84770051, 
+            "time": "2020-02-29 13:15:00", 
+            "total": 84770051
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 136943425, 
+            "time": "2020-02-29 13:20:00", 
+            "total": 136943425
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 106695002, 
+            "time": "2020-02-29 13:25:00", 
+            "total": 106695002
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 146789806, 
+            "time": "2020-02-29 13:30:00", 
+            "total": 146789806
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 87303487, 
+            "time": "2020-02-29 13:35:00", 
+            "total": 87303487
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 124230751, 
+            "time": "2020-02-29 13:40:00", 
+            "total": 124230751
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 77997340, 
+            "time": "2020-02-29 13:45:00", 
+            "total": 77997340
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 135656148, 
+            "time": "2020-02-29 13:50:00", 
+            "total": 135656148
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 136834938, 
+            "time": "2020-02-29 13:55:00", 
+            "total": 136834938
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 117370579, 
+            "time": "2020-02-29 14:00:00", 
+            "total": 117370579
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 108064945, 
+            "time": "2020-02-29 14:05:00", 
+            "total": 108064945
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 67443334, 
+            "time": "2020-02-29 14:10:00", 
+            "total": 67443334
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 84877236, 
+            "time": "2020-02-29 14:15:00", 
+            "total": 84877236
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 76766145, 
+            "time": "2020-02-29 14:20:00", 
+            "total": 76766145
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 148838580, 
+            "time": "2020-02-29 14:25:00", 
+            "total": 148838580
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 91692120, 
+            "time": "2020-02-29 14:30:00", 
+            "total": 91692120
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 112797522, 
+            "time": "2020-02-29 14:35:00", 
+            "total": 112797522
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 75207844, 
+            "time": "2020-02-29 14:40:00", 
+            "total": 75207844
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 131745461, 
+            "time": "2020-02-29 14:45:00", 
+            "total": 131745461
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 137184413, 
+            "time": "2020-02-29 14:50:00", 
+            "total": 137184413
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 195311063, 
+            "time": "2020-02-29 14:55:00", 
+            "total": 195311063
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 152284575, 
+            "time": "2020-02-29 15:00:00", 
+            "total": 152284575
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 194333858, 
+            "time": "2020-02-29 15:05:00", 
+            "total": 194333858
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 152822974, 
+            "time": "2020-02-29 15:10:00", 
+            "total": 152822974
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 123533695, 
+            "time": "2020-02-29 15:15:00", 
+            "total": 123533695
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 169853158, 
+            "time": "2020-02-29 15:20:00", 
+            "total": 169853158
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 138678541, 
+            "time": "2020-02-29 15:25:00", 
+            "total": 138678541
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 142905932, 
+            "time": "2020-02-29 15:30:00", 
+            "total": 142905932
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 81921061, 
+            "time": "2020-02-29 15:35:00", 
+            "total": 81921061
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 109129340, 
+            "time": "2020-02-29 15:40:00", 
+            "total": 109129340
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 114678309, 
+            "time": "2020-02-29 15:45:00", 
+            "total": 114678309
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 98516513, 
+            "time": "2020-02-29 15:50:00", 
+            "total": 98516513
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 133105796, 
+            "time": "2020-02-29 15:55:00", 
+            "total": 133105796
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 139377014, 
+            "time": "2020-02-29 16:00:00", 
+            "total": 139377014
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 143277701, 
+            "time": "2020-02-29 16:05:00", 
+            "total": 143277701
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 218258809, 
+            "time": "2020-02-29 16:10:00", 
+            "total": 218258809
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 110639008, 
+            "time": "2020-02-29 16:15:00", 
+            "total": 110639008
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 157237592, 
+            "time": "2020-02-29 16:20:00", 
+            "total": 157237592
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 114879029, 
+            "time": "2020-02-29 16:25:00", 
+            "total": 114879029
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 109283287, 
+            "time": "2020-02-29 16:30:00", 
+            "total": 109283287
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 94761278, 
+            "time": "2020-02-29 16:35:00", 
+            "total": 94761278
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 157715529, 
+            "time": "2020-02-29 16:40:00", 
+            "total": 157715529
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 128141166, 
+            "time": "2020-02-29 16:45:00", 
+            "total": 128141166
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 82502411, 
+            "time": "2020-02-29 16:50:00", 
+            "total": 82502411
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 140885254, 
+            "time": "2020-02-29 16:55:00", 
+            "total": 140885254
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 98356655, 
+            "time": "2020-02-29 17:00:00", 
+            "total": 98356655
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 94107502, 
+            "time": "2020-02-29 17:05:00", 
+            "total": 94107502
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 151060355, 
+            "time": "2020-02-29 17:10:00", 
+            "total": 151060355
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 105649362, 
+            "time": "2020-02-29 17:15:00", 
+            "total": 105649362
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 152283209, 
+            "time": "2020-02-29 17:20:00", 
+            "total": 152283209
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 109187249, 
+            "time": "2020-02-29 17:25:00", 
+            "total": 109187249
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 194916199, 
+            "time": "2020-02-29 17:30:00", 
+            "total": 194916199
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 169686288, 
+            "time": "2020-02-29 17:35:00", 
+            "total": 169686288
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 175388159, 
+            "time": "2020-02-29 17:40:00", 
+            "total": 175388159
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 161377388, 
+            "time": "2020-02-29 17:45:00", 
+            "total": 161377388
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 132624960, 
+            "time": "2020-02-29 17:50:00", 
+            "total": 132624960
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 148814162, 
+            "time": "2020-02-29 17:55:00", 
+            "total": 148814162
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 180162864, 
+            "time": "2020-02-29 18:00:00", 
+            "total": 180162864
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 136421985, 
+            "time": "2020-02-29 18:05:00", 
+            "total": 136421985
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 131343717, 
+            "time": "2020-02-29 18:10:00", 
+            "total": 131343717
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 136411810, 
+            "time": "2020-02-29 18:15:00", 
+            "total": 136411810
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 135781399, 
+            "time": "2020-02-29 18:20:00", 
+            "total": 135781399
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 133500396, 
+            "time": "2020-02-29 18:25:00", 
+            "total": 133500396
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 137039601, 
+            "time": "2020-02-29 18:30:00", 
+            "total": 137039601
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 134192773, 
+            "time": "2020-02-29 18:35:00", 
+            "total": 134192773
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 161532989, 
+            "time": "2020-02-29 18:40:00", 
+            "total": 161532989
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 146877811, 
+            "time": "2020-02-29 18:45:00", 
+            "total": 146877811
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 134532681, 
+            "time": "2020-02-29 18:50:00", 
+            "total": 134532681
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 153292302, 
+            "time": "2020-02-29 18:55:00", 
+            "total": 153292302
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 133898928, 
+            "time": "2020-02-29 19:00:00", 
+            "total": 133898928
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 126618845, 
+            "time": "2020-02-29 19:05:00", 
+            "total": 126618845
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 180063470, 
+            "time": "2020-02-29 19:10:00", 
+            "total": 180063470
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 168148430, 
+            "time": "2020-02-29 19:15:00", 
+            "total": 168148430
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 135307110, 
+            "time": "2020-02-29 19:20:00", 
+            "total": 135307110
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 120426702, 
+            "time": "2020-02-29 19:25:00", 
+            "total": 120426702
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 122814945, 
+            "time": "2020-02-29 19:30:00", 
+            "total": 122814945
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 176480419, 
+            "time": "2020-02-29 19:35:00", 
+            "total": 176480419
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 111213193, 
+            "time": "2020-02-29 19:40:00", 
+            "total": 111213193
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 128252059, 
+            "time": "2020-02-29 19:45:00", 
+            "total": 128252059
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 137635130, 
+            "time": "2020-02-29 19:50:00", 
+            "total": 137635130
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 182858880, 
+            "time": "2020-02-29 19:55:00", 
+            "total": 182858880
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 158593819, 
+            "time": "2020-02-29 20:00:00", 
+            "total": 158593819
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 116476978, 
+            "time": "2020-02-29 20:05:00", 
+            "total": 116476978
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 114525016, 
+            "time": "2020-02-29 20:10:00", 
+            "total": 114525016
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 98275767, 
+            "time": "2020-02-29 20:15:00", 
+            "total": 98275767
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 129290755, 
+            "time": "2020-02-29 20:20:00", 
+            "total": 129290755
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 126276970, 
+            "time": "2020-02-29 20:25:00", 
+            "total": 126276970
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 155679602, 
+            "time": "2020-02-29 20:30:00", 
+            "total": 155679602
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 151581001, 
+            "time": "2020-02-29 20:35:00", 
+            "total": 151581001
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 150834181, 
+            "time": "2020-02-29 20:40:00", 
+            "total": 150834181
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 169281796, 
+            "time": "2020-02-29 20:45:00", 
+            "total": 169281796
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 163350072, 
+            "time": "2020-02-29 20:50:00", 
+            "total": 163350072
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 116411181, 
+            "time": "2020-02-29 20:55:00", 
+            "total": 116411181
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 143603017, 
+            "time": "2020-02-29 21:00:00", 
+            "total": 143603017
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 123836321, 
+            "time": "2020-02-29 21:05:00", 
+            "total": 123836321
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 192329745, 
+            "time": "2020-02-29 21:10:00", 
+            "total": 192329745
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 164431499, 
+            "time": "2020-02-29 21:15:00", 
+            "total": 164431499
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 133200385, 
+            "time": "2020-02-29 21:20:00", 
+            "total": 133200385
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 143139221, 
+            "time": "2020-02-29 21:25:00", 
+            "total": 143139221
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 114593459, 
+            "time": "2020-02-29 21:30:00", 
+            "total": 114593459
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 147343914, 
+            "time": "2020-02-29 21:35:00", 
+            "total": 147343914
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 142444163, 
+            "time": "2020-02-29 21:40:00", 
+            "total": 142444163
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 112531188, 
+            "time": "2020-02-29 21:45:00", 
+            "total": 112531188
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 125242707, 
+            "time": "2020-02-29 21:50:00", 
+            "total": 125242707
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 149303184, 
+            "time": "2020-02-29 21:55:00", 
+            "total": 149303184
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 78581328, 
+            "time": "2020-02-29 22:00:00", 
+            "total": 78581328
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 82552825, 
+            "time": "2020-02-29 22:05:00", 
+            "total": 82552825
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 125575992, 
+            "time": "2020-02-29 22:10:00", 
+            "total": 125575992
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 156302826, 
+            "time": "2020-02-29 22:15:00", 
+            "total": 156302826
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 133831392, 
+            "time": "2020-02-29 22:20:00", 
+            "total": 133831392
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 156394106, 
+            "time": "2020-02-29 22:25:00", 
+            "total": 156394106
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 147689955, 
+            "time": "2020-02-29 22:30:00", 
+            "total": 147689955
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 130954527, 
+            "time": "2020-02-29 22:35:00", 
+            "total": 130954527
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 114650187, 
+            "time": "2020-02-29 22:40:00", 
+            "total": 114650187
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 98597331, 
+            "time": "2020-02-29 22:45:00", 
+            "total": 98597331
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 131669579, 
+            "time": "2020-02-29 22:50:00", 
+            "total": 131669579
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 113383287, 
+            "time": "2020-02-29 22:55:00", 
+            "total": 113383287
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 140886378, 
+            "time": "2020-02-29 23:00:00", 
+            "total": 140886378
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 209541439, 
+            "time": "2020-02-29 23:05:00", 
+            "total": 209541439
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 158669662, 
+            "time": "2020-02-29 23:10:00", 
+            "total": 158669662
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 103844547, 
+            "time": "2020-02-29 23:15:00", 
+            "total": 103844547
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 104032358, 
+            "time": "2020-02-29 23:20:00", 
+            "total": 104032358
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 110611050, 
+            "time": "2020-02-29 23:25:00", 
+            "total": 110611050
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 86233641, 
+            "time": "2020-02-29 23:30:00", 
+            "total": 86233641
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 105078652, 
+            "time": "2020-02-29 23:35:00", 
+            "total": 105078652
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 81237060, 
+            "time": "2020-02-29 23:40:00", 
+            "total": 81237060
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 67763101, 
+            "time": "2020-02-29 23:45:00", 
+            "total": 67763101
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 117439882, 
+            "time": "2020-02-29 23:50:00", 
+            "total": 117439882
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 106116503, 
+            "time": "2020-02-29 23:55:00", 
+            "total": 106116503
+        }
+    ], 
+    "transmission_record": [
+        {
+            "nclauncherw.download.ncupdate.com": 7867514818, 
+            "time": "2020-02-29 00:00:00", 
+            "total": 7867514818
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5187073819, 
+            "time": "2020-02-29 00:05:00", 
+            "total": 5187073819
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4347350309, 
+            "time": "2020-02-29 00:10:00", 
+            "total": 4347350309
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3887874300, 
+            "time": "2020-02-29 00:15:00", 
+            "total": 3887874300
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5210269757, 
+            "time": "2020-02-29 00:20:00", 
+            "total": 5210269757
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5394863428, 
+            "time": "2020-02-29 00:25:00", 
+            "total": 5394863428
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5456618460, 
+            "time": "2020-02-29 00:30:00", 
+            "total": 5456618460
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5884816480, 
+            "time": "2020-02-29 00:35:00", 
+            "total": 5884816480
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3352297878, 
+            "time": "2020-02-29 00:40:00", 
+            "total": 3352297878
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3109193687, 
+            "time": "2020-02-29 00:45:00", 
+            "total": 3109193687
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4090050814, 
+            "time": "2020-02-29 00:50:00", 
+            "total": 4090050814
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3016433957, 
+            "time": "2020-02-29 00:55:00", 
+            "total": 3016433957
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3211205735, 
+            "time": "2020-02-29 01:00:00", 
+            "total": 3211205735
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 818470923, 
+            "time": "2020-02-29 01:05:00", 
+            "total": 818470923
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2044615174, 
+            "time": "2020-02-29 01:10:00", 
+            "total": 2044615174
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2481445239, 
+            "time": "2020-02-29 01:15:00", 
+            "total": 2481445239
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3478897796, 
+            "time": "2020-02-29 01:20:00", 
+            "total": 3478897796
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1927103390, 
+            "time": "2020-02-29 01:25:00", 
+            "total": 1927103390
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1695605928, 
+            "time": "2020-02-29 01:30:00", 
+            "total": 1695605928
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2807807670, 
+            "time": "2020-02-29 01:35:00", 
+            "total": 2807807670
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2046176169, 
+            "time": "2020-02-29 01:40:00", 
+            "total": 2046176169
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 818470193, 
+            "time": "2020-02-29 01:45:00", 
+            "total": 818470193
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2261694596, 
+            "time": "2020-02-29 01:50:00", 
+            "total": 2261694596
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2460358065, 
+            "time": "2020-02-29 01:55:00", 
+            "total": 2460358065
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3085757926, 
+            "time": "2020-02-29 02:00:00", 
+            "total": 3085757926
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2708229743, 
+            "time": "2020-02-29 02:05:00", 
+            "total": 2708229743
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2640819037, 
+            "time": "2020-02-29 02:10:00", 
+            "total": 2640819037
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2081896022, 
+            "time": "2020-02-29 02:15:00", 
+            "total": 2081896022
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2660030867, 
+            "time": "2020-02-29 02:20:00", 
+            "total": 2660030867
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3500956164, 
+            "time": "2020-02-29 02:25:00", 
+            "total": 3500956164
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2453589108, 
+            "time": "2020-02-29 02:30:00", 
+            "total": 2453589108
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3887731368, 
+            "time": "2020-02-29 02:35:00", 
+            "total": 3887731368
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1841631947, 
+            "time": "2020-02-29 02:40:00", 
+            "total": 1841631947
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2864645678, 
+            "time": "2020-02-29 02:45:00", 
+            "total": 2864645678
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1242459905, 
+            "time": "2020-02-29 02:50:00", 
+            "total": 1242459905
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2058325053, 
+            "time": "2020-02-29 02:55:00", 
+            "total": 2058325053
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1432322839, 
+            "time": "2020-02-29 03:00:00", 
+            "total": 1432322839
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1636940387, 
+            "time": "2020-02-29 03:05:00", 
+            "total": 1636940387
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1853032914, 
+            "time": "2020-02-29 03:10:00", 
+            "total": 1853032914
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 613852905, 
+            "time": "2020-02-29 03:15:00", 
+            "total": 613852905
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1432322155, 
+            "time": "2020-02-29 03:20:00", 
+            "total": 1432322155
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2250793717, 
+            "time": "2020-02-29 03:25:00", 
+            "total": 2250793717
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 818469769, 
+            "time": "2020-02-29 03:30:00", 
+            "total": 818469769
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1647155543, 
+            "time": "2020-02-29 03:35:00", 
+            "total": 1647155543
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1446693511, 
+            "time": "2020-02-29 03:40:00", 
+            "total": 1446693511
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1345017690, 
+            "time": "2020-02-29 03:45:00", 
+            "total": 1345017690
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1023787704, 
+            "time": "2020-02-29 03:50:00", 
+            "total": 1023787704
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 232997087, 
+            "time": "2020-02-29 03:55:00", 
+            "total": 232997087
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2214405505, 
+            "time": "2020-02-29 04:00:00", 
+            "total": 2214405505
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 860332519, 
+            "time": "2020-02-29 04:05:00", 
+            "total": 860332519
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1432324208, 
+            "time": "2020-02-29 04:10:00", 
+            "total": 1432324208
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 618932413, 
+            "time": "2020-02-29 04:15:00", 
+            "total": 618932413
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1841556567, 
+            "time": "2020-02-29 04:20:00", 
+            "total": 1841556567
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1227706235, 
+            "time": "2020-02-29 04:25:00", 
+            "total": 1227706235
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1432322155, 
+            "time": "2020-02-29 04:30:00", 
+            "total": 1432322155
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1061600647, 
+            "time": "2020-02-29 04:35:00", 
+            "total": 1061600647
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 864377379, 
+            "time": "2020-02-29 04:40:00", 
+            "total": 864377379
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 613852645, 
+            "time": "2020-02-29 04:45:00", 
+            "total": 613852645
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1645334634, 
+            "time": "2020-02-29 04:50:00", 
+            "total": 1645334634
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1623415896, 
+            "time": "2020-02-29 04:55:00", 
+            "total": 1623415896
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1023088720, 
+            "time": "2020-02-29 05:00:00", 
+            "total": 1023088720
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1023380719, 
+            "time": "2020-02-29 05:05:00", 
+            "total": 1023380719
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2046255550, 
+            "time": "2020-02-29 05:10:00", 
+            "total": 2046255550
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 830633439, 
+            "time": "2020-02-29 05:15:00", 
+            "total": 830633439
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1432466397, 
+            "time": "2020-02-29 05:20:00", 
+            "total": 1432466397
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 409235096, 
+            "time": "2020-02-29 05:25:00", 
+            "total": 409235096
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 613851961, 
+            "time": "2020-02-29 05:30:00", 
+            "total": 613851961
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 204617548, 
+            "time": "2020-02-29 05:35:00", 
+            "total": 204617548
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 708224799, 
+            "time": "2020-02-29 05:40:00", 
+            "total": 708224799
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 409570388, 
+            "time": "2020-02-29 05:45:00", 
+            "total": 409570388
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 204617808, 
+            "time": "2020-02-29 05:50:00", 
+            "total": 204617808
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 409235096, 
+            "time": "2020-02-29 05:55:00", 
+            "total": 409235096
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1637104454, 
+            "time": "2020-02-29 06:00:00", 
+            "total": 1637104454
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 818470193, 
+            "time": "2020-02-29 06:05:00", 
+            "total": 818470193
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1023088426, 
+            "time": "2020-02-29 06:10:00", 
+            "total": 1023088426
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 613852645, 
+            "time": "2020-02-29 06:15:00", 
+            "total": 613852645
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 613852645, 
+            "time": "2020-02-29 06:20:00", 
+            "total": 613852645
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 409235096, 
+            "time": "2020-02-29 06:25:00", 
+            "total": 409235096
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1227705290, 
+            "time": "2020-02-29 06:30:00", 
+            "total": 1227705290
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 409235096, 
+            "time": "2020-02-29 06:35:00", 
+            "total": 409235096
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 615737169, 
+            "time": "2020-02-29 06:40:00", 
+            "total": 615737169
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1025180279, 
+            "time": "2020-02-29 06:45:00", 
+            "total": 1025180279
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2061080901, 
+            "time": "2020-02-29 06:50:00", 
+            "total": 2061080901
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1636944103, 
+            "time": "2020-02-29 06:55:00", 
+            "total": 1636944103
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 451054353, 
+            "time": "2020-02-29 07:00:00", 
+            "total": 451054353
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 818470878, 
+            "time": "2020-02-29 07:05:00", 
+            "total": 818470878
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 204617548, 
+            "time": "2020-02-29 07:10:00", 
+            "total": 204617548
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1432322839, 
+            "time": "2020-02-29 07:15:00", 
+            "total": 1432322839
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1023088426, 
+            "time": "2020-02-29 07:20:00", 
+            "total": 1023088426
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 613851961, 
+            "time": "2020-02-29 07:25:00", 
+            "total": 613851961
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 635351875, 
+            "time": "2020-02-29 07:30:00", 
+            "total": 635351875
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 823321966, 
+            "time": "2020-02-29 07:35:00", 
+            "total": 823321966
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1023088426, 
+            "time": "2020-02-29 07:40:00", 
+            "total": 1023088426
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2631837469, 
+            "time": "2020-02-29 07:45:00", 
+            "total": 2631837469
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1227704606, 
+            "time": "2020-02-29 07:50:00", 
+            "total": 1227704606
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 818470878, 
+            "time": "2020-02-29 07:55:00", 
+            "total": 818470878
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1636939703, 
+            "time": "2020-02-29 08:00:00", 
+            "total": 1636939703
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 714809448, 
+            "time": "2020-02-29 08:05:00", 
+            "total": 714809448
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 821693317, 
+            "time": "2020-02-29 08:10:00", 
+            "total": 821693317
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 818625648, 
+            "time": "2020-02-29 08:15:00", 
+            "total": 818625648
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2455820400, 
+            "time": "2020-02-29 08:20:00", 
+            "total": 2455820400
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 818471562, 
+            "time": "2020-02-29 08:25:00", 
+            "total": 818471562
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 818470193, 
+            "time": "2020-02-29 08:30:00", 
+            "total": 818470193
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1841557936, 
+            "time": "2020-02-29 08:35:00", 
+            "total": 1841557936
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1227705975, 
+            "time": "2020-02-29 08:40:00", 
+            "total": 1227705975
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2455409213, 
+            "time": "2020-02-29 08:45:00", 
+            "total": 2455409213
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1841557936, 
+            "time": "2020-02-29 08:50:00", 
+            "total": 1841557936
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1246960332, 
+            "time": "2020-02-29 08:55:00", 
+            "total": 1246960332
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2046174800, 
+            "time": "2020-02-29 09:00:00", 
+            "total": 2046174800
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2462343426, 
+            "time": "2020-02-29 09:05:00", 
+            "total": 2462343426
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3487077079, 
+            "time": "2020-02-29 09:10:00", 
+            "total": 3487077079
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1974723141, 
+            "time": "2020-02-29 09:15:00", 
+            "total": 1974723141
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2046570908, 
+            "time": "2020-02-29 09:20:00", 
+            "total": 2046570908
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2458692573, 
+            "time": "2020-02-29 09:25:00", 
+            "total": 2458692573
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3687254263, 
+            "time": "2020-02-29 09:30:00", 
+            "total": 3687254263
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2250795086, 
+            "time": "2020-02-29 09:35:00", 
+            "total": 2250795086
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3234864952, 
+            "time": "2020-02-29 09:40:00", 
+            "total": 3234864952
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1227705290, 
+            "time": "2020-02-29 09:45:00", 
+            "total": 1227705290
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3069263227, 
+            "time": "2020-02-29 09:50:00", 
+            "total": 3069263227
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1023087742, 
+            "time": "2020-02-29 09:55:00", 
+            "total": 1023087742
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3069263227, 
+            "time": "2020-02-29 10:00:00", 
+            "total": 3069263227
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2250793033, 
+            "time": "2020-02-29 10:05:00", 
+            "total": 2250793033
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2104990535, 
+            "time": "2020-02-29 10:10:00", 
+            "total": 2104990535
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2660028814, 
+            "time": "2020-02-29 10:15:00", 
+            "total": 2660028814
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2506677493, 
+            "time": "2020-02-29 10:20:00", 
+            "total": 2506677493
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2182055719, 
+            "time": "2020-02-29 10:25:00", 
+            "total": 2182055719
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2110125618, 
+            "time": "2020-02-29 10:30:00", 
+            "total": 2110125618
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2904272911, 
+            "time": "2020-02-29 10:35:00", 
+            "total": 2904272911
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2515432695, 
+            "time": "2020-02-29 10:40:00", 
+            "total": 2515432695
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2315097901, 
+            "time": "2020-02-29 10:45:00", 
+            "total": 2315097901
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2660411283, 
+            "time": "2020-02-29 10:50:00", 
+            "total": 2660411283
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2670054146, 
+            "time": "2020-02-29 10:55:00", 
+            "total": 2670054146
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4346226576, 
+            "time": "2020-02-29 11:00:00", 
+            "total": 4346226576
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3478499268, 
+            "time": "2020-02-29 11:05:00", 
+            "total": 3478499268
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3112653060, 
+            "time": "2020-02-29 11:10:00", 
+            "total": 3112653060
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3280602155, 
+            "time": "2020-02-29 11:15:00", 
+            "total": 3280602155
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4580118158, 
+            "time": "2020-02-29 11:20:00", 
+            "total": 4580118158
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2814451043, 
+            "time": "2020-02-29 11:25:00", 
+            "total": 2814451043
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4092353068, 
+            "time": "2020-02-29 11:30:00", 
+            "total": 4092353068
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2494416655, 
+            "time": "2020-02-29 11:35:00", 
+            "total": 2494416655
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 1031653284, 
+            "time": "2020-02-29 11:40:00", 
+            "total": 1031653284
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3359595938, 
+            "time": "2020-02-29 11:45:00", 
+            "total": 3359595938
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2495064278, 
+            "time": "2020-02-29 11:50:00", 
+            "total": 2495064278
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4076289922, 
+            "time": "2020-02-29 11:55:00", 
+            "total": 4076289922
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2864647047, 
+            "time": "2020-02-29 12:00:00", 
+            "total": 2864647047
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2864647047, 
+            "time": "2020-02-29 12:05:00", 
+            "total": 2864647047
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2511830565, 
+            "time": "2020-02-29 12:10:00", 
+            "total": 2511830565
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3076430028, 
+            "time": "2020-02-29 12:15:00", 
+            "total": 3076430028
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3084648614, 
+            "time": "2020-02-29 12:20:00", 
+            "total": 3084648614
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2876470938, 
+            "time": "2020-02-29 12:25:00", 
+            "total": 2876470938
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2130559196, 
+            "time": "2020-02-29 12:30:00", 
+            "total": 2130559196
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2455411351, 
+            "time": "2020-02-29 12:35:00", 
+            "total": 2455411351
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2656002686, 
+            "time": "2020-02-29 12:40:00", 
+            "total": 2656002686
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5323071110, 
+            "time": "2020-02-29 12:45:00", 
+            "total": 5323071110
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3264585491, 
+            "time": "2020-02-29 12:50:00", 
+            "total": 3264585491
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4209282541, 
+            "time": "2020-02-29 12:55:00", 
+            "total": 4209282541
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5633112933, 
+            "time": "2020-02-29 13:00:00", 
+            "total": 5633112933
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3347533041, 
+            "time": "2020-02-29 13:05:00", 
+            "total": 3347533041
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3028084688, 
+            "time": "2020-02-29 13:10:00", 
+            "total": 3028084688
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3178876933, 
+            "time": "2020-02-29 13:15:00", 
+            "total": 3178876933
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5135378446, 
+            "time": "2020-02-29 13:20:00", 
+            "total": 5135378446
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4001062584, 
+            "time": "2020-02-29 13:25:00", 
+            "total": 4001062584
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5504617745, 
+            "time": "2020-02-29 13:30:00", 
+            "total": 5504617745
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3273880775, 
+            "time": "2020-02-29 13:35:00", 
+            "total": 3273880775
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4658653175, 
+            "time": "2020-02-29 13:40:00", 
+            "total": 4658653175
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2924900281, 
+            "time": "2020-02-29 13:45:00", 
+            "total": 2924900281
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5087105558, 
+            "time": "2020-02-29 13:50:00", 
+            "total": 5087105558
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5131310198, 
+            "time": "2020-02-29 13:55:00", 
+            "total": 5131310198
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4401396731, 
+            "time": "2020-02-29 14:00:00", 
+            "total": 4401396731
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4052435459, 
+            "time": "2020-02-29 14:05:00", 
+            "total": 4052435459
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2529125029, 
+            "time": "2020-02-29 14:10:00", 
+            "total": 2529125029
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3182896382, 
+            "time": "2020-02-29 14:15:00", 
+            "total": 3182896382
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2878730453, 
+            "time": "2020-02-29 14:20:00", 
+            "total": 2878730453
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5581446779, 
+            "time": "2020-02-29 14:25:00", 
+            "total": 5581446779
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3438454524, 
+            "time": "2020-02-29 14:30:00", 
+            "total": 3438454524
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4229907091, 
+            "time": "2020-02-29 14:35:00", 
+            "total": 4229907091
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2820294176, 
+            "time": "2020-02-29 14:40:00", 
+            "total": 2820294176
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4940454788, 
+            "time": "2020-02-29 14:45:00", 
+            "total": 4940454788
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5144415512, 
+            "time": "2020-02-29 14:50:00", 
+            "total": 5144415512
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 7324164896, 
+            "time": "2020-02-29 14:55:00", 
+            "total": 7324164896
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5710671595, 
+            "time": "2020-02-29 15:00:00", 
+            "total": 5710671595
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 7287519707, 
+            "time": "2020-02-29 15:05:00", 
+            "total": 7287519707
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5730861528, 
+            "time": "2020-02-29 15:10:00", 
+            "total": 5730861528
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4632513573, 
+            "time": "2020-02-29 15:15:00", 
+            "total": 4632513573
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6369493447, 
+            "time": "2020-02-29 15:20:00", 
+            "total": 6369493447
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5200445294, 
+            "time": "2020-02-29 15:25:00", 
+            "total": 5200445294
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5358972455, 
+            "time": "2020-02-29 15:30:00", 
+            "total": 5358972455
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3072039808, 
+            "time": "2020-02-29 15:35:00", 
+            "total": 3072039808
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4092350285, 
+            "time": "2020-02-29 15:40:00", 
+            "total": 4092350285
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4300436597, 
+            "time": "2020-02-29 15:45:00", 
+            "total": 4300436597
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3694369260, 
+            "time": "2020-02-29 15:50:00", 
+            "total": 3694369260
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4991467364, 
+            "time": "2020-02-29 15:55:00", 
+            "total": 4991467364
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5226638037, 
+            "time": "2020-02-29 16:00:00", 
+            "total": 5226638037
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5372913824, 
+            "time": "2020-02-29 16:05:00", 
+            "total": 5372913824
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 8184705361, 
+            "time": "2020-02-29 16:10:00", 
+            "total": 8184705361
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4148962831, 
+            "time": "2020-02-29 16:15:00", 
+            "total": 4148962831
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5896409709, 
+            "time": "2020-02-29 16:20:00", 
+            "total": 5896409709
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4307963614, 
+            "time": "2020-02-29 16:25:00", 
+            "total": 4307963614
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4098123293, 
+            "time": "2020-02-29 16:30:00", 
+            "total": 4098123293
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3553547931, 
+            "time": "2020-02-29 16:35:00", 
+            "total": 3553547931
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5914332342, 
+            "time": "2020-02-29 16:40:00", 
+            "total": 5914332342
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4805293739, 
+            "time": "2020-02-29 16:45:00", 
+            "total": 4805293739
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3093840419, 
+            "time": "2020-02-29 16:50:00", 
+            "total": 3093840419
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5283197026, 
+            "time": "2020-02-29 16:55:00", 
+            "total": 5283197026
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3688374576, 
+            "time": "2020-02-29 17:00:00", 
+            "total": 3688374576
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3529031339, 
+            "time": "2020-02-29 17:05:00", 
+            "total": 3529031339
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5664763327, 
+            "time": "2020-02-29 17:10:00", 
+            "total": 5664763327
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3961851110, 
+            "time": "2020-02-29 17:15:00", 
+            "total": 3961851110
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5710620369, 
+            "time": "2020-02-29 17:20:00", 
+            "total": 5710620369
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4094521844, 
+            "time": "2020-02-29 17:25:00", 
+            "total": 4094521844
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 7309357498, 
+            "time": "2020-02-29 17:30:00", 
+            "total": 7309357498
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6363235805, 
+            "time": "2020-02-29 17:35:00", 
+            "total": 6363235805
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6577055967, 
+            "time": "2020-02-29 17:40:00", 
+            "total": 6577055967
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6051652075, 
+            "time": "2020-02-29 17:45:00", 
+            "total": 6051652075
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4973436033, 
+            "time": "2020-02-29 17:50:00", 
+            "total": 4973436033
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5580531093, 
+            "time": "2020-02-29 17:55:00", 
+            "total": 5580531093
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6756107415, 
+            "time": "2020-02-29 18:00:00", 
+            "total": 6756107415
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5115824462, 
+            "time": "2020-02-29 18:05:00", 
+            "total": 5115824462
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4925389420, 
+            "time": "2020-02-29 18:10:00", 
+            "total": 4925389420
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5115442890, 
+            "time": "2020-02-29 18:15:00", 
+            "total": 5115442890
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5091802476, 
+            "time": "2020-02-29 18:20:00", 
+            "total": 5091802476
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5006264883, 
+            "time": "2020-02-29 18:25:00", 
+            "total": 5006264883
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5138985066, 
+            "time": "2020-02-29 18:30:00", 
+            "total": 5138985066
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5032229004, 
+            "time": "2020-02-29 18:35:00", 
+            "total": 5032229004
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6057487104, 
+            "time": "2020-02-29 18:40:00", 
+            "total": 6057487104
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5507917928, 
+            "time": "2020-02-29 18:45:00", 
+            "total": 5507917928
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5044975543, 
+            "time": "2020-02-29 18:50:00", 
+            "total": 5044975543
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5748461352, 
+            "time": "2020-02-29 18:55:00", 
+            "total": 5748461352
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5021209836, 
+            "time": "2020-02-29 19:00:00", 
+            "total": 5021209836
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4748206708, 
+            "time": "2020-02-29 19:05:00", 
+            "total": 4748206708
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6752380153, 
+            "time": "2020-02-29 19:10:00", 
+            "total": 6752380153
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6305566129, 
+            "time": "2020-02-29 19:15:00", 
+            "total": 6305566129
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5074016660, 
+            "time": "2020-02-29 19:20:00", 
+            "total": 5074016660
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4516001333, 
+            "time": "2020-02-29 19:25:00", 
+            "total": 4516001333
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4605560440, 
+            "time": "2020-02-29 19:30:00", 
+            "total": 4605560440
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6618015717, 
+            "time": "2020-02-29 19:35:00", 
+            "total": 6618015717
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4170494747, 
+            "time": "2020-02-29 19:40:00", 
+            "total": 4170494747
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4809452249, 
+            "time": "2020-02-29 19:45:00", 
+            "total": 4809452249
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5161317378, 
+            "time": "2020-02-29 19:50:00", 
+            "total": 5161317378
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6857208026, 
+            "time": "2020-02-29 19:55:00", 
+            "total": 6857208026
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5947268220, 
+            "time": "2020-02-29 20:00:00", 
+            "total": 5947268220
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4367886678, 
+            "time": "2020-02-29 20:05:00", 
+            "total": 4367886678
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4294688101, 
+            "time": "2020-02-29 20:10:00", 
+            "total": 4294688101
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3685341264, 
+            "time": "2020-02-29 20:15:00", 
+            "total": 3685341264
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4848403328, 
+            "time": "2020-02-29 20:20:00", 
+            "total": 4848403328
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4735386380, 
+            "time": "2020-02-29 20:25:00", 
+            "total": 4735386380
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5837985081, 
+            "time": "2020-02-29 20:30:00", 
+            "total": 5837985081
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5684287565, 
+            "time": "2020-02-29 20:35:00", 
+            "total": 5684287565
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5656281822, 
+            "time": "2020-02-29 20:40:00", 
+            "total": 5656281822
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6348067378, 
+            "time": "2020-02-29 20:45:00", 
+            "total": 6348067378
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6125627720, 
+            "time": "2020-02-29 20:50:00", 
+            "total": 6125627720
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4365419312, 
+            "time": "2020-02-29 20:55:00", 
+            "total": 4365419312
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5385113172, 
+            "time": "2020-02-29 21:00:00", 
+            "total": 5385113172
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4643862042, 
+            "time": "2020-02-29 21:05:00", 
+            "total": 4643862042
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 7212365448, 
+            "time": "2020-02-29 21:10:00", 
+            "total": 7212365448
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 6166181244, 
+            "time": "2020-02-29 21:15:00", 
+            "total": 6166181244
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4995014451, 
+            "time": "2020-02-29 21:20:00", 
+            "total": 4995014451
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5367720819, 
+            "time": "2020-02-29 21:25:00", 
+            "total": 5367720819
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4297254744, 
+            "time": "2020-02-29 21:30:00", 
+            "total": 4297254744
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5525396777, 
+            "time": "2020-02-29 21:35:00", 
+            "total": 5525396777
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5341656141, 
+            "time": "2020-02-29 21:40:00", 
+            "total": 5341656141
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4219919585, 
+            "time": "2020-02-29 21:45:00", 
+            "total": 4219919585
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4696601537, 
+            "time": "2020-02-29 21:50:00", 
+            "total": 4696601537
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5598869423, 
+            "time": "2020-02-29 21:55:00", 
+            "total": 5598869423
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2946799832, 
+            "time": "2020-02-29 22:00:00", 
+            "total": 2946799832
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3095730963, 
+            "time": "2020-02-29 22:05:00", 
+            "total": 3095730963
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4709099711, 
+            "time": "2020-02-29 22:10:00", 
+            "total": 4709099711
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5861355999, 
+            "time": "2020-02-29 22:15:00", 
+            "total": 5861355999
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5018677212, 
+            "time": "2020-02-29 22:20:00", 
+            "total": 5018677212
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5864778988, 
+            "time": "2020-02-29 22:25:00", 
+            "total": 5864778988
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5538373315, 
+            "time": "2020-02-29 22:30:00", 
+            "total": 5538373315
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4910794794, 
+            "time": "2020-02-29 22:35:00", 
+            "total": 4910794794
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4299382031, 
+            "time": "2020-02-29 22:40:00", 
+            "total": 4299382031
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3697399935, 
+            "time": "2020-02-29 22:45:00", 
+            "total": 3697399935
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4937609229, 
+            "time": "2020-02-29 22:50:00", 
+            "total": 4937609229
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4251873264, 
+            "time": "2020-02-29 22:55:00", 
+            "total": 4251873264
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5283239181, 
+            "time": "2020-02-29 23:00:00", 
+            "total": 5283239181
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 7857803968, 
+            "time": "2020-02-29 23:05:00", 
+            "total": 7857803968
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 5950112357, 
+            "time": "2020-02-29 23:10:00", 
+            "total": 5950112357
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3894170538, 
+            "time": "2020-02-29 23:15:00", 
+            "total": 3894170538
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3901213449, 
+            "time": "2020-02-29 23:20:00", 
+            "total": 3901213449
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4147914397, 
+            "time": "2020-02-29 23:25:00", 
+            "total": 4147914397
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3233761557, 
+            "time": "2020-02-29 23:30:00", 
+            "total": 3233761557
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3940449484, 
+            "time": "2020-02-29 23:35:00", 
+            "total": 3940449484
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3046389782, 
+            "time": "2020-02-29 23:40:00", 
+            "total": 3046389782
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 2541116304, 
+            "time": "2020-02-29 23:45:00", 
+            "total": 2541116304
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 4403995609, 
+            "time": "2020-02-29 23:50:00", 
+            "total": 4403995609
+        }, 
+        {
+            "nclauncherw.download.ncupdate.com": 3979368882, 
+            "time": "2020-02-29 23:55:00", 
+            "total": 3979368882
+        }
+    ]
+}
