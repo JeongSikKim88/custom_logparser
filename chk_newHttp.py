@@ -2,7 +2,7 @@
 import json
 
 
-with open('newAPI_mkr_http.json') as data_file:
+with open('logs/json/20200304_newAPI_status.json') as data_file:
     data = json.load (data_file)
     
     #jdata=json.dump(data, indent = 4, sort_keys=True)
@@ -44,7 +44,8 @@ for i in range(0,288):
     ######## status code ########
     # print (a,json.dumps(data['error_status_record'][a]["4xx"], indent = 4, sort_keys=True)) 
     ######## cache status #######
-    print (a,json.dumps(data['http_cache_status_record'][a]["hit"], indent = 4, sort_keys=True)) 
+    #print (a,json.dumps(data['error_status_r/ecord'][a]["hit"], indent = 4, sort_keys=True)) 
+    print (a,json.dumps(data['error_status_record'][a]["2xx"], indent = 4, sort_keys=True)) 
     
     # sum += int(json.dumps(data['request_record'][i]['total'], indent = 4, sort_keys=True))
     # print (json.dumps(data['error_status_record'][i]['time']),json.dumps(data['error_status_record'][i]['total']))

@@ -2,7 +2,7 @@
 import json
 
 
-with open('227_increase_nclauncherw.json') as data_file:
+with open('logs/json/20200304_227_pro.json') as data_file:
     data = json.load (data_file)
     #jdata=json.dump(data, indent = 4, sort_keys=True)
 

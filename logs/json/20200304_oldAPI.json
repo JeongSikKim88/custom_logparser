@@ -1,0 +1,5795 @@
+{
+    "concurrent_record": [
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 00:05:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 00:10:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 00:40:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 03:40:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 04:20:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3, 
+            "time": "2020-03-04 04:35:00", 
+            "total": 3
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 23, 
+            "time": "2020-03-04 04:40:00", 
+            "total": 23
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 26, 
+            "time": "2020-03-04 04:45:00", 
+            "total": 26
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 20, 
+            "time": "2020-03-04 04:50:00", 
+            "total": 20
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 22, 
+            "time": "2020-03-04 04:55:00", 
+            "total": 22
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 15, 
+            "time": "2020-03-04 05:00:00", 
+            "total": 15
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6, 
+            "time": "2020-03-04 05:05:00", 
+            "total": 6
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4, 
+            "time": "2020-03-04 05:10:00", 
+            "total": 4
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4, 
+            "time": "2020-03-04 05:15:00", 
+            "total": 4
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 10, 
+            "time": "2020-03-04 05:20:00", 
+            "total": 10
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7, 
+            "time": "2020-03-04 05:25:00", 
+            "total": 7
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 10, 
+            "time": "2020-03-04 05:30:00", 
+            "total": 10
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 14, 
+            "time": "2020-03-04 05:35:00", 
+            "total": 14
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5, 
+            "time": "2020-03-04 05:40:00", 
+            "total": 5
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2, 
+            "time": "2020-03-04 05:45:00", 
+            "total": 2
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3, 
+            "time": "2020-03-04 05:50:00", 
+            "total": 3
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3, 
+            "time": "2020-03-04 05:55:00", 
+            "total": 3
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3, 
+            "time": "2020-03-04 06:00:00", 
+            "total": 3
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6, 
+            "time": "2020-03-04 06:05:00", 
+            "total": 6
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3, 
+            "time": "2020-03-04 06:10:00", 
+            "total": 3
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7, 
+            "time": "2020-03-04 06:15:00", 
+            "total": 7
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6, 
+            "time": "2020-03-04 06:20:00", 
+            "total": 6
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5, 
+            "time": "2020-03-04 06:25:00", 
+            "total": 5
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7, 
+            "time": "2020-03-04 06:30:00", 
+            "total": 7
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2084, 
+            "time": "2020-03-04 06:35:00", 
+            "total": 2084
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3393, 
+            "time": "2020-03-04 06:40:00", 
+            "total": 3393
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3944, 
+            "time": "2020-03-04 06:45:00", 
+            "total": 3944
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3964, 
+            "time": "2020-03-04 06:50:00", 
+            "total": 3964
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3924, 
+            "time": "2020-03-04 06:55:00", 
+            "total": 3924
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5952, 
+            "time": "2020-03-04 07:00:00", 
+            "total": 5952
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5115, 
+            "time": "2020-03-04 07:05:00", 
+            "total": 5115
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4043, 
+            "time": "2020-03-04 07:10:00", 
+            "total": 4043
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3368, 
+            "time": "2020-03-04 07:15:00", 
+            "total": 3368
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3212, 
+            "time": "2020-03-04 07:20:00", 
+            "total": 3212
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2810, 
+            "time": "2020-03-04 07:25:00", 
+            "total": 2810
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2923, 
+            "time": "2020-03-04 07:30:00", 
+            "total": 2923
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2592, 
+            "time": "2020-03-04 07:35:00", 
+            "total": 2592
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2393, 
+            "time": "2020-03-04 07:40:00", 
+            "total": 2393
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2189, 
+            "time": "2020-03-04 07:45:00", 
+            "total": 2189
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2190, 
+            "time": "2020-03-04 07:50:00", 
+            "total": 2190
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2113, 
+            "time": "2020-03-04 07:55:00", 
+            "total": 2113
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2280, 
+            "time": "2020-03-04 08:00:00", 
+            "total": 2280
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2131, 
+            "time": "2020-03-04 08:05:00", 
+            "total": 2131
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1875, 
+            "time": "2020-03-04 08:10:00", 
+            "total": 1875
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1741, 
+            "time": "2020-03-04 08:15:00", 
+            "total": 1741
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1699, 
+            "time": "2020-03-04 08:20:00", 
+            "total": 1699
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1522, 
+            "time": "2020-03-04 08:25:00", 
+            "total": 1522
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1496, 
+            "time": "2020-03-04 08:30:00", 
+            "total": 1496
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1332, 
+            "time": "2020-03-04 08:35:00", 
+            "total": 1332
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1342, 
+            "time": "2020-03-04 08:40:00", 
+            "total": 1342
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1363, 
+            "time": "2020-03-04 08:45:00", 
+            "total": 1363
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1285, 
+            "time": "2020-03-04 08:50:00", 
+            "total": 1285
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1290, 
+            "time": "2020-03-04 08:55:00", 
+            "total": 1290
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1413, 
+            "time": "2020-03-04 09:00:00", 
+            "total": 1413
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1495, 
+            "time": "2020-03-04 09:05:00", 
+            "total": 1495
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1228, 
+            "time": "2020-03-04 09:10:00", 
+            "total": 1228
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1184, 
+            "time": "2020-03-04 09:15:00", 
+            "total": 1184
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1183, 
+            "time": "2020-03-04 09:20:00", 
+            "total": 1183
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1129, 
+            "time": "2020-03-04 09:25:00", 
+            "total": 1129
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 942, 
+            "time": "2020-03-04 09:30:00", 
+            "total": 942
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 890, 
+            "time": "2020-03-04 09:35:00", 
+            "total": 890
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 934, 
+            "time": "2020-03-04 09:40:00", 
+            "total": 934
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 981, 
+            "time": "2020-03-04 09:45:00", 
+            "total": 981
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 976, 
+            "time": "2020-03-04 09:50:00", 
+            "total": 976
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 861, 
+            "time": "2020-03-04 09:55:00", 
+            "total": 861
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 899, 
+            "time": "2020-03-04 10:00:00", 
+            "total": 899
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 972, 
+            "time": "2020-03-04 10:05:00", 
+            "total": 972
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 938, 
+            "time": "2020-03-04 10:10:00", 
+            "total": 938
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 875, 
+            "time": "2020-03-04 10:15:00", 
+            "total": 875
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 765, 
+            "time": "2020-03-04 10:20:00", 
+            "total": 765
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 730, 
+            "time": "2020-03-04 10:25:00", 
+            "total": 730
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 715, 
+            "time": "2020-03-04 10:30:00", 
+            "total": 715
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 675, 
+            "time": "2020-03-04 10:35:00", 
+            "total": 675
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 678, 
+            "time": "2020-03-04 10:40:00", 
+            "total": 678
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 649, 
+            "time": "2020-03-04 10:45:00", 
+            "total": 649
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 611, 
+            "time": "2020-03-04 10:50:00", 
+            "total": 611
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 630, 
+            "time": "2020-03-04 10:55:00", 
+            "total": 630
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 642, 
+            "time": "2020-03-04 11:00:00", 
+            "total": 642
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 566, 
+            "time": "2020-03-04 11:05:00", 
+            "total": 566
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 587, 
+            "time": "2020-03-04 11:10:00", 
+            "total": 587
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 603, 
+            "time": "2020-03-04 11:15:00", 
+            "total": 603
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 580, 
+            "time": "2020-03-04 11:20:00", 
+            "total": 580
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 584, 
+            "time": "2020-03-04 11:25:00", 
+            "total": 584
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 591, 
+            "time": "2020-03-04 11:30:00", 
+            "total": 591
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 631, 
+            "time": "2020-03-04 11:35:00", 
+            "total": 631
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 599, 
+            "time": "2020-03-04 11:40:00", 
+            "total": 599
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 570, 
+            "time": "2020-03-04 11:45:00", 
+            "total": 570
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 624, 
+            "time": "2020-03-04 11:50:00", 
+            "total": 624
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 656, 
+            "time": "2020-03-04 11:55:00", 
+            "total": 656
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 771, 
+            "time": "2020-03-04 12:00:00", 
+            "total": 771
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 981, 
+            "time": "2020-03-04 12:05:00", 
+            "total": 981
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 822, 
+            "time": "2020-03-04 12:10:00", 
+            "total": 822
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 817, 
+            "time": "2020-03-04 12:15:00", 
+            "total": 817
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 818, 
+            "time": "2020-03-04 12:20:00", 
+            "total": 818
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 770, 
+            "time": "2020-03-04 12:25:00", 
+            "total": 770
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 712, 
+            "time": "2020-03-04 12:30:00", 
+            "total": 712
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 684, 
+            "time": "2020-03-04 12:35:00", 
+            "total": 684
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 666, 
+            "time": "2020-03-04 12:40:00", 
+            "total": 666
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 595, 
+            "time": "2020-03-04 12:45:00", 
+            "total": 595
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 559, 
+            "time": "2020-03-04 12:50:00", 
+            "total": 559
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 515, 
+            "time": "2020-03-04 12:55:00", 
+            "total": 515
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 459, 
+            "time": "2020-03-04 13:00:00", 
+            "total": 459
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 427, 
+            "time": "2020-03-04 13:05:00", 
+            "total": 427
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 440, 
+            "time": "2020-03-04 13:10:00", 
+            "total": 440
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 401, 
+            "time": "2020-03-04 13:15:00", 
+            "total": 401
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 390, 
+            "time": "2020-03-04 13:20:00", 
+            "total": 390
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 380, 
+            "time": "2020-03-04 13:25:00", 
+            "total": 380
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 388, 
+            "time": "2020-03-04 13:30:00", 
+            "total": 388
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 384, 
+            "time": "2020-03-04 13:35:00", 
+            "total": 384
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 368, 
+            "time": "2020-03-04 13:40:00", 
+            "total": 368
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 354, 
+            "time": "2020-03-04 13:45:00", 
+            "total": 354
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 319, 
+            "time": "2020-03-04 13:50:00", 
+            "total": 319
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 345, 
+            "time": "2020-03-04 13:55:00", 
+            "total": 345
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 301, 
+            "time": "2020-03-04 14:00:00", 
+            "total": 301
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 307, 
+            "time": "2020-03-04 14:05:00", 
+            "total": 307
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 294, 
+            "time": "2020-03-04 14:10:00", 
+            "total": 294
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 321, 
+            "time": "2020-03-04 14:15:00", 
+            "total": 321
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 328, 
+            "time": "2020-03-04 14:20:00", 
+            "total": 328
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 286, 
+            "time": "2020-03-04 14:25:00", 
+            "total": 286
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 325, 
+            "time": "2020-03-04 14:30:00", 
+            "total": 325
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 301, 
+            "time": "2020-03-04 14:35:00", 
+            "total": 301
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 313, 
+            "time": "2020-03-04 14:40:00", 
+            "total": 313
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 261, 
+            "time": "2020-03-04 14:45:00", 
+            "total": 261
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 277, 
+            "time": "2020-03-04 14:50:00", 
+            "total": 277
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 281, 
+            "time": "2020-03-04 14:55:00", 
+            "total": 281
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 264, 
+            "time": "2020-03-04 15:00:00", 
+            "total": 264
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 301, 
+            "time": "2020-03-04 15:05:00", 
+            "total": 301
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 296, 
+            "time": "2020-03-04 15:10:00", 
+            "total": 296
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 282, 
+            "time": "2020-03-04 15:15:00", 
+            "total": 282
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 288, 
+            "time": "2020-03-04 15:20:00", 
+            "total": 288
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 283, 
+            "time": "2020-03-04 15:25:00", 
+            "total": 283
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 316, 
+            "time": "2020-03-04 15:30:00", 
+            "total": 316
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 310, 
+            "time": "2020-03-04 15:35:00", 
+            "total": 310
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 329, 
+            "time": "2020-03-04 15:40:00", 
+            "total": 329
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 263, 
+            "time": "2020-03-04 15:45:00", 
+            "total": 263
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 296, 
+            "time": "2020-03-04 15:50:00", 
+            "total": 296
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 243, 
+            "time": "2020-03-04 15:55:00", 
+            "total": 243
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 268, 
+            "time": "2020-03-04 16:00:00", 
+            "total": 268
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 278, 
+            "time": "2020-03-04 16:05:00", 
+            "total": 278
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 266, 
+            "time": "2020-03-04 16:10:00", 
+            "total": 266
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 291, 
+            "time": "2020-03-04 16:15:00", 
+            "total": 291
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 293, 
+            "time": "2020-03-04 16:20:00", 
+            "total": 293
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 270, 
+            "time": "2020-03-04 16:25:00", 
+            "total": 270
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 289, 
+            "time": "2020-03-04 16:30:00", 
+            "total": 289
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 263, 
+            "time": "2020-03-04 16:35:00", 
+            "total": 263
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 253, 
+            "time": "2020-03-04 16:40:00", 
+            "total": 253
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 229, 
+            "time": "2020-03-04 16:45:00", 
+            "total": 229
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 260, 
+            "time": "2020-03-04 16:50:00", 
+            "total": 260
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 265, 
+            "time": "2020-03-04 16:55:00", 
+            "total": 265
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 266, 
+            "time": "2020-03-04 17:00:00", 
+            "total": 266
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 279, 
+            "time": "2020-03-04 17:05:00", 
+            "total": 279
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 265, 
+            "time": "2020-03-04 17:10:00", 
+            "total": 265
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 265, 
+            "time": "2020-03-04 17:15:00", 
+            "total": 265
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 299, 
+            "time": "2020-03-04 17:20:00", 
+            "total": 299
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 308, 
+            "time": "2020-03-04 17:25:00", 
+            "total": 308
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 341, 
+            "time": "2020-03-04 17:30:00", 
+            "total": 341
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 320, 
+            "time": "2020-03-04 17:35:00", 
+            "total": 320
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 299, 
+            "time": "2020-03-04 17:40:00", 
+            "total": 299
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 812, 
+            "time": "2020-03-04 17:45:00", 
+            "total": 812
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1508, 
+            "time": "2020-03-04 17:50:00", 
+            "total": 1508
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1653, 
+            "time": "2020-03-04 17:55:00", 
+            "total": 1653
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1496, 
+            "time": "2020-03-04 18:00:00", 
+            "total": 1496
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1921, 
+            "time": "2020-03-04 18:05:00", 
+            "total": 1921
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1563, 
+            "time": "2020-03-04 18:10:00", 
+            "total": 1563
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1631, 
+            "time": "2020-03-04 18:15:00", 
+            "total": 1631
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1565, 
+            "time": "2020-03-04 18:20:00", 
+            "total": 1565
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1486, 
+            "time": "2020-03-04 18:25:00", 
+            "total": 1486
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1428, 
+            "time": "2020-03-04 18:30:00", 
+            "total": 1428
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1387, 
+            "time": "2020-03-04 18:35:00", 
+            "total": 1387
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1436, 
+            "time": "2020-03-04 18:40:00", 
+            "total": 1436
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1332, 
+            "time": "2020-03-04 18:45:00", 
+            "total": 1332
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1320, 
+            "time": "2020-03-04 18:50:00", 
+            "total": 1320
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1356, 
+            "time": "2020-03-04 18:55:00", 
+            "total": 1356
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1208, 
+            "time": "2020-03-04 19:00:00", 
+            "total": 1208
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1273, 
+            "time": "2020-03-04 19:05:00", 
+            "total": 1273
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1182, 
+            "time": "2020-03-04 19:10:00", 
+            "total": 1182
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1228, 
+            "time": "2020-03-04 19:15:00", 
+            "total": 1228
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1114, 
+            "time": "2020-03-04 19:20:00", 
+            "total": 1114
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1129, 
+            "time": "2020-03-04 19:25:00", 
+            "total": 1129
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1126, 
+            "time": "2020-03-04 19:30:00", 
+            "total": 1126
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1010, 
+            "time": "2020-03-04 19:35:00", 
+            "total": 1010
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1050, 
+            "time": "2020-03-04 19:40:00", 
+            "total": 1050
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1084, 
+            "time": "2020-03-04 19:45:00", 
+            "total": 1084
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1117, 
+            "time": "2020-03-04 19:50:00", 
+            "total": 1117
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1065, 
+            "time": "2020-03-04 19:55:00", 
+            "total": 1065
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1052, 
+            "time": "2020-03-04 20:00:00", 
+            "total": 1052
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1088, 
+            "time": "2020-03-04 20:05:00", 
+            "total": 1088
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1068, 
+            "time": "2020-03-04 20:10:00", 
+            "total": 1068
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1001, 
+            "time": "2020-03-04 20:15:00", 
+            "total": 1001
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 957, 
+            "time": "2020-03-04 20:20:00", 
+            "total": 957
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 949, 
+            "time": "2020-03-04 20:25:00", 
+            "total": 949
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 955, 
+            "time": "2020-03-04 20:30:00", 
+            "total": 955
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 922, 
+            "time": "2020-03-04 20:35:00", 
+            "total": 922
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 945, 
+            "time": "2020-03-04 20:40:00", 
+            "total": 945
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 855, 
+            "time": "2020-03-04 20:45:00", 
+            "total": 855
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 870, 
+            "time": "2020-03-04 20:50:00", 
+            "total": 870
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 881, 
+            "time": "2020-03-04 20:55:00", 
+            "total": 881
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1042, 
+            "time": "2020-03-04 21:00:00", 
+            "total": 1042
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1146, 
+            "time": "2020-03-04 21:05:00", 
+            "total": 1146
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1012, 
+            "time": "2020-03-04 21:10:00", 
+            "total": 1012
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1012, 
+            "time": "2020-03-04 21:15:00", 
+            "total": 1012
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1031, 
+            "time": "2020-03-04 21:20:00", 
+            "total": 1031
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 923, 
+            "time": "2020-03-04 21:25:00", 
+            "total": 923
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 918, 
+            "time": "2020-03-04 21:30:00", 
+            "total": 918
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 851, 
+            "time": "2020-03-04 21:35:00", 
+            "total": 851
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 897, 
+            "time": "2020-03-04 21:40:00", 
+            "total": 897
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 904, 
+            "time": "2020-03-04 21:45:00", 
+            "total": 904
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 956, 
+            "time": "2020-03-04 21:50:00", 
+            "total": 956
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 905, 
+            "time": "2020-03-04 21:55:00", 
+            "total": 905
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 833, 
+            "time": "2020-03-04 22:00:00", 
+            "total": 833
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 829, 
+            "time": "2020-03-04 22:05:00", 
+            "total": 829
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 754, 
+            "time": "2020-03-04 22:10:00", 
+            "total": 754
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 734, 
+            "time": "2020-03-04 22:15:00", 
+            "total": 734
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 701, 
+            "time": "2020-03-04 22:20:00", 
+            "total": 701
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 657, 
+            "time": "2020-03-04 22:25:00", 
+            "total": 657
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 702, 
+            "time": "2020-03-04 22:30:00", 
+            "total": 702
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 796, 
+            "time": "2020-03-04 22:35:00", 
+            "total": 796
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 740, 
+            "time": "2020-03-04 22:40:00", 
+            "total": 740
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 672, 
+            "time": "2020-03-04 22:45:00", 
+            "total": 672
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 646, 
+            "time": "2020-03-04 22:50:00", 
+            "total": 646
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 641, 
+            "time": "2020-03-04 22:55:00", 
+            "total": 641
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 618, 
+            "time": "2020-03-04 23:00:00", 
+            "total": 618
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 579, 
+            "time": "2020-03-04 23:05:00", 
+            "total": 579
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 678, 
+            "time": "2020-03-04 23:10:00", 
+            "total": 678
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 594, 
+            "time": "2020-03-04 23:15:00", 
+            "total": 594
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 606, 
+            "time": "2020-03-04 23:20:00", 
+            "total": 606
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 591, 
+            "time": "2020-03-04 23:25:00", 
+            "total": 591
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 574, 
+            "time": "2020-03-04 23:30:00", 
+            "total": 574
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 550, 
+            "time": "2020-03-04 23:35:00", 
+            "total": 550
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 578, 
+            "time": "2020-03-04 23:40:00", 
+            "total": 578
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 537, 
+            "time": "2020-03-04 23:45:00", 
+            "total": 537
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 526, 
+            "time": "2020-03-04 23:50:00", 
+            "total": 526
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 521, 
+            "time": "2020-03-04 23:55:00", 
+            "total": 521
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 482, 
+            "time": "2020-03-05 00:00:00", 
+            "total": 482
+        }
+    ], 
+    "date_unit": "minute", 
+    "domain_list": [
+        "mkr-l2m.ncupdate.com", 
+        "total"
+    ], 
+    "request_record": [
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 04:40:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 04:45:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 04:50:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 04:55:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 05:00:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 05:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 05:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 05:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 05:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1, 
+            "time": "2020-03-04 05:25:00", 
+            "total": 1
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2, 
+            "time": "2020-03-04 05:30:00", 
+            "total": 2
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 05:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 05:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 05:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 05:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 05:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 06:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 06:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 06:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 06:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 06:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 06:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 06:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 185, 
+            "time": "2020-03-04 06:35:00", 
+            "total": 185
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 299, 
+            "time": "2020-03-04 06:40:00", 
+            "total": 299
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 345, 
+            "time": "2020-03-04 06:45:00", 
+            "total": 345
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 331, 
+            "time": "2020-03-04 06:50:00", 
+            "total": 331
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 335, 
+            "time": "2020-03-04 06:55:00", 
+            "total": 335
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 530, 
+            "time": "2020-03-04 07:00:00", 
+            "total": 530
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 444, 
+            "time": "2020-03-04 07:05:00", 
+            "total": 444
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 346, 
+            "time": "2020-03-04 07:10:00", 
+            "total": 346
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 267, 
+            "time": "2020-03-04 07:15:00", 
+            "total": 267
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 275, 
+            "time": "2020-03-04 07:20:00", 
+            "total": 275
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 242, 
+            "time": "2020-03-04 07:25:00", 
+            "total": 242
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 245, 
+            "time": "2020-03-04 07:30:00", 
+            "total": 245
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 219, 
+            "time": "2020-03-04 07:35:00", 
+            "total": 219
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 203, 
+            "time": "2020-03-04 07:40:00", 
+            "total": 203
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 182, 
+            "time": "2020-03-04 07:45:00", 
+            "total": 182
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 189, 
+            "time": "2020-03-04 07:50:00", 
+            "total": 189
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 176, 
+            "time": "2020-03-04 07:55:00", 
+            "total": 176
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 203, 
+            "time": "2020-03-04 08:00:00", 
+            "total": 203
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 186, 
+            "time": "2020-03-04 08:05:00", 
+            "total": 186
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 172, 
+            "time": "2020-03-04 08:10:00", 
+            "total": 172
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 134, 
+            "time": "2020-03-04 08:15:00", 
+            "total": 134
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 139, 
+            "time": "2020-03-04 08:20:00", 
+            "total": 139
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 130, 
+            "time": "2020-03-04 08:25:00", 
+            "total": 130
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 127, 
+            "time": "2020-03-04 08:30:00", 
+            "total": 127
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 110, 
+            "time": "2020-03-04 08:35:00", 
+            "total": 110
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 101, 
+            "time": "2020-03-04 08:40:00", 
+            "total": 101
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 113, 
+            "time": "2020-03-04 08:45:00", 
+            "total": 113
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 106, 
+            "time": "2020-03-04 08:50:00", 
+            "total": 106
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 103, 
+            "time": "2020-03-04 08:55:00", 
+            "total": 103
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 122, 
+            "time": "2020-03-04 09:00:00", 
+            "total": 122
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 132, 
+            "time": "2020-03-04 09:05:00", 
+            "total": 132
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 102, 
+            "time": "2020-03-04 09:10:00", 
+            "total": 102
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 95, 
+            "time": "2020-03-04 09:15:00", 
+            "total": 95
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 95, 
+            "time": "2020-03-04 09:20:00", 
+            "total": 95
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 94, 
+            "time": "2020-03-04 09:25:00", 
+            "total": 94
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 73, 
+            "time": "2020-03-04 09:30:00", 
+            "total": 73
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 70, 
+            "time": "2020-03-04 09:35:00", 
+            "total": 70
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 87, 
+            "time": "2020-03-04 09:40:00", 
+            "total": 87
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 85, 
+            "time": "2020-03-04 09:45:00", 
+            "total": 85
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 83, 
+            "time": "2020-03-04 09:50:00", 
+            "total": 83
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 74, 
+            "time": "2020-03-04 09:55:00", 
+            "total": 74
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 71, 
+            "time": "2020-03-04 10:00:00", 
+            "total": 71
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 80, 
+            "time": "2020-03-04 10:05:00", 
+            "total": 80
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 81, 
+            "time": "2020-03-04 10:10:00", 
+            "total": 81
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 77, 
+            "time": "2020-03-04 10:15:00", 
+            "total": 77
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 64, 
+            "time": "2020-03-04 10:20:00", 
+            "total": 64
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 63, 
+            "time": "2020-03-04 10:25:00", 
+            "total": 63
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 62, 
+            "time": "2020-03-04 10:30:00", 
+            "total": 62
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 58, 
+            "time": "2020-03-04 10:35:00", 
+            "total": 58
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 61, 
+            "time": "2020-03-04 10:40:00", 
+            "total": 61
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 57, 
+            "time": "2020-03-04 10:45:00", 
+            "total": 57
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 49, 
+            "time": "2020-03-04 10:50:00", 
+            "total": 49
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 52, 
+            "time": "2020-03-04 10:55:00", 
+            "total": 52
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 50, 
+            "time": "2020-03-04 11:00:00", 
+            "total": 50
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 47, 
+            "time": "2020-03-04 11:05:00", 
+            "total": 47
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 48, 
+            "time": "2020-03-04 11:10:00", 
+            "total": 48
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 47, 
+            "time": "2020-03-04 11:15:00", 
+            "total": 47
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 46, 
+            "time": "2020-03-04 11:20:00", 
+            "total": 46
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 50, 
+            "time": "2020-03-04 11:25:00", 
+            "total": 50
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 50, 
+            "time": "2020-03-04 11:30:00", 
+            "total": 50
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 52, 
+            "time": "2020-03-04 11:35:00", 
+            "total": 52
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 52, 
+            "time": "2020-03-04 11:40:00", 
+            "total": 52
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 54, 
+            "time": "2020-03-04 11:45:00", 
+            "total": 54
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 51, 
+            "time": "2020-03-04 11:50:00", 
+            "total": 51
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 53, 
+            "time": "2020-03-04 11:55:00", 
+            "total": 53
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 59, 
+            "time": "2020-03-04 12:00:00", 
+            "total": 59
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 82, 
+            "time": "2020-03-04 12:05:00", 
+            "total": 82
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 65, 
+            "time": "2020-03-04 12:10:00", 
+            "total": 65
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 60, 
+            "time": "2020-03-04 12:15:00", 
+            "total": 60
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 67, 
+            "time": "2020-03-04 12:20:00", 
+            "total": 67
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 61, 
+            "time": "2020-03-04 12:25:00", 
+            "total": 61
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 55, 
+            "time": "2020-03-04 12:30:00", 
+            "total": 55
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 58, 
+            "time": "2020-03-04 12:35:00", 
+            "total": 58
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 51, 
+            "time": "2020-03-04 12:40:00", 
+            "total": 51
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 43, 
+            "time": "2020-03-04 12:45:00", 
+            "total": 43
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 43, 
+            "time": "2020-03-04 12:50:00", 
+            "total": 43
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 40, 
+            "time": "2020-03-04 12:55:00", 
+            "total": 40
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 37, 
+            "time": "2020-03-04 13:00:00", 
+            "total": 37
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 37, 
+            "time": "2020-03-04 13:05:00", 
+            "total": 37
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 34, 
+            "time": "2020-03-04 13:10:00", 
+            "total": 34
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 35, 
+            "time": "2020-03-04 13:15:00", 
+            "total": 35
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 32, 
+            "time": "2020-03-04 13:20:00", 
+            "total": 32
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 31, 
+            "time": "2020-03-04 13:25:00", 
+            "total": 31
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 31, 
+            "time": "2020-03-04 13:30:00", 
+            "total": 31
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 36, 
+            "time": "2020-03-04 13:35:00", 
+            "total": 36
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 29, 
+            "time": "2020-03-04 13:40:00", 
+            "total": 29
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 31, 
+            "time": "2020-03-04 13:45:00", 
+            "total": 31
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 13:50:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 29, 
+            "time": "2020-03-04 13:55:00", 
+            "total": 29
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 26, 
+            "time": "2020-03-04 14:00:00", 
+            "total": 26
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 14:05:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 14:10:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 14:15:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 27, 
+            "time": "2020-03-04 14:20:00", 
+            "total": 27
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 21, 
+            "time": "2020-03-04 14:25:00", 
+            "total": 21
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 29, 
+            "time": "2020-03-04 14:30:00", 
+            "total": 29
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 24, 
+            "time": "2020-03-04 14:35:00", 
+            "total": 24
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 29, 
+            "time": "2020-03-04 14:40:00", 
+            "total": 29
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 22, 
+            "time": "2020-03-04 14:45:00", 
+            "total": 22
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 24, 
+            "time": "2020-03-04 14:50:00", 
+            "total": 24
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 26, 
+            "time": "2020-03-04 14:55:00", 
+            "total": 26
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 22, 
+            "time": "2020-03-04 15:00:00", 
+            "total": 22
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 24, 
+            "time": "2020-03-04 15:05:00", 
+            "total": 24
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 22, 
+            "time": "2020-03-04 15:10:00", 
+            "total": 22
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 22, 
+            "time": "2020-03-04 15:15:00", 
+            "total": 22
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 21, 
+            "time": "2020-03-04 15:20:00", 
+            "total": 21
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 26, 
+            "time": "2020-03-04 15:25:00", 
+            "total": 26
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 15:30:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 22, 
+            "time": "2020-03-04 15:35:00", 
+            "total": 22
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 26, 
+            "time": "2020-03-04 15:40:00", 
+            "total": 26
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 27, 
+            "time": "2020-03-04 15:45:00", 
+            "total": 27
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 24, 
+            "time": "2020-03-04 15:50:00", 
+            "total": 24
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 24, 
+            "time": "2020-03-04 15:55:00", 
+            "total": 24
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 16:00:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 21, 
+            "time": "2020-03-04 16:05:00", 
+            "total": 21
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 21, 
+            "time": "2020-03-04 16:10:00", 
+            "total": 21
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 16:15:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 26, 
+            "time": "2020-03-04 16:20:00", 
+            "total": 26
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 23, 
+            "time": "2020-03-04 16:25:00", 
+            "total": 23
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 16:30:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 19, 
+            "time": "2020-03-04 16:35:00", 
+            "total": 19
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 16:40:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 22, 
+            "time": "2020-03-04 16:45:00", 
+            "total": 22
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 21, 
+            "time": "2020-03-04 16:50:00", 
+            "total": 21
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 23, 
+            "time": "2020-03-04 16:55:00", 
+            "total": 23
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 17:00:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 22, 
+            "time": "2020-03-04 17:05:00", 
+            "total": 22
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 22, 
+            "time": "2020-03-04 17:10:00", 
+            "total": 22
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 20, 
+            "time": "2020-03-04 17:15:00", 
+            "total": 20
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 29, 
+            "time": "2020-03-04 17:20:00", 
+            "total": 29
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 27, 
+            "time": "2020-03-04 17:25:00", 
+            "total": 27
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 27, 
+            "time": "2020-03-04 17:30:00", 
+            "total": 27
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 26, 
+            "time": "2020-03-04 17:35:00", 
+            "total": 26
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25, 
+            "time": "2020-03-04 17:40:00", 
+            "total": 25
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 55, 
+            "time": "2020-03-04 17:45:00", 
+            "total": 55
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 95, 
+            "time": "2020-03-04 17:50:00", 
+            "total": 95
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 110, 
+            "time": "2020-03-04 17:55:00", 
+            "total": 110
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 89, 
+            "time": "2020-03-04 18:00:00", 
+            "total": 89
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 121, 
+            "time": "2020-03-04 18:05:00", 
+            "total": 121
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 104, 
+            "time": "2020-03-04 18:10:00", 
+            "total": 104
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 104, 
+            "time": "2020-03-04 18:15:00", 
+            "total": 104
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 99, 
+            "time": "2020-03-04 18:20:00", 
+            "total": 99
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 89, 
+            "time": "2020-03-04 18:25:00", 
+            "total": 89
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 86, 
+            "time": "2020-03-04 18:30:00", 
+            "total": 86
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 80, 
+            "time": "2020-03-04 18:35:00", 
+            "total": 80
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 92, 
+            "time": "2020-03-04 18:40:00", 
+            "total": 92
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 87, 
+            "time": "2020-03-04 18:45:00", 
+            "total": 87
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 83, 
+            "time": "2020-03-04 18:50:00", 
+            "total": 83
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 86, 
+            "time": "2020-03-04 18:55:00", 
+            "total": 86
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 78, 
+            "time": "2020-03-04 19:00:00", 
+            "total": 78
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 86, 
+            "time": "2020-03-04 19:05:00", 
+            "total": 86
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 77, 
+            "time": "2020-03-04 19:10:00", 
+            "total": 77
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 76, 
+            "time": "2020-03-04 19:15:00", 
+            "total": 76
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 72, 
+            "time": "2020-03-04 19:20:00", 
+            "total": 72
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 75, 
+            "time": "2020-03-04 19:25:00", 
+            "total": 75
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 77, 
+            "time": "2020-03-04 19:30:00", 
+            "total": 77
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 67, 
+            "time": "2020-03-04 19:35:00", 
+            "total": 67
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 65, 
+            "time": "2020-03-04 19:40:00", 
+            "total": 65
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 78, 
+            "time": "2020-03-04 19:45:00", 
+            "total": 78
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 71, 
+            "time": "2020-03-04 19:50:00", 
+            "total": 71
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 66, 
+            "time": "2020-03-04 19:55:00", 
+            "total": 66
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 68, 
+            "time": "2020-03-04 20:00:00", 
+            "total": 68
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 74, 
+            "time": "2020-03-04 20:05:00", 
+            "total": 74
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 71, 
+            "time": "2020-03-04 20:10:00", 
+            "total": 71
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 65, 
+            "time": "2020-03-04 20:15:00", 
+            "total": 65
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 62, 
+            "time": "2020-03-04 20:20:00", 
+            "total": 62
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 61, 
+            "time": "2020-03-04 20:25:00", 
+            "total": 61
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 67, 
+            "time": "2020-03-04 20:30:00", 
+            "total": 67
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 60, 
+            "time": "2020-03-04 20:35:00", 
+            "total": 60
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 64, 
+            "time": "2020-03-04 20:40:00", 
+            "total": 64
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 56, 
+            "time": "2020-03-04 20:45:00", 
+            "total": 56
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 56, 
+            "time": "2020-03-04 20:50:00", 
+            "total": 56
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 57, 
+            "time": "2020-03-04 20:55:00", 
+            "total": 57
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 69, 
+            "time": "2020-03-04 21:00:00", 
+            "total": 69
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 75, 
+            "time": "2020-03-04 21:05:00", 
+            "total": 75
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 63, 
+            "time": "2020-03-04 21:10:00", 
+            "total": 63
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 69, 
+            "time": "2020-03-04 21:15:00", 
+            "total": 69
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 66, 
+            "time": "2020-03-04 21:20:00", 
+            "total": 66
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 58, 
+            "time": "2020-03-04 21:25:00", 
+            "total": 58
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 64, 
+            "time": "2020-03-04 21:30:00", 
+            "total": 64
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 56, 
+            "time": "2020-03-04 21:35:00", 
+            "total": 56
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 62, 
+            "time": "2020-03-04 21:40:00", 
+            "total": 62
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 58, 
+            "time": "2020-03-04 21:45:00", 
+            "total": 58
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 64, 
+            "time": "2020-03-04 21:50:00", 
+            "total": 64
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 64, 
+            "time": "2020-03-04 21:55:00", 
+            "total": 64
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 57, 
+            "time": "2020-03-04 22:00:00", 
+            "total": 57
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 55, 
+            "time": "2020-03-04 22:05:00", 
+            "total": 55
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 49, 
+            "time": "2020-03-04 22:10:00", 
+            "total": 49
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 49, 
+            "time": "2020-03-04 22:15:00", 
+            "total": 49
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 46, 
+            "time": "2020-03-04 22:20:00", 
+            "total": 46
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 46, 
+            "time": "2020-03-04 22:25:00", 
+            "total": 46
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 46, 
+            "time": "2020-03-04 22:30:00", 
+            "total": 46
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 49, 
+            "time": "2020-03-04 22:35:00", 
+            "total": 49
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 51, 
+            "time": "2020-03-04 22:40:00", 
+            "total": 51
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 44, 
+            "time": "2020-03-04 22:45:00", 
+            "total": 44
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 42, 
+            "time": "2020-03-04 22:50:00", 
+            "total": 42
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 43, 
+            "time": "2020-03-04 22:55:00", 
+            "total": 43
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 41, 
+            "time": "2020-03-04 23:00:00", 
+            "total": 41
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 38, 
+            "time": "2020-03-04 23:05:00", 
+            "total": 38
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 48, 
+            "time": "2020-03-04 23:10:00", 
+            "total": 48
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 40, 
+            "time": "2020-03-04 23:15:00", 
+            "total": 40
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 38, 
+            "time": "2020-03-04 23:20:00", 
+            "total": 38
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 43, 
+            "time": "2020-03-04 23:25:00", 
+            "total": 43
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 39, 
+            "time": "2020-03-04 23:30:00", 
+            "total": 39
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 38, 
+            "time": "2020-03-04 23:35:00", 
+            "total": 38
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 37, 
+            "time": "2020-03-04 23:40:00", 
+            "total": 37
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 39, 
+            "time": "2020-03-04 23:45:00", 
+            "total": 39
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 39, 
+            "time": "2020-03-04 23:50:00", 
+            "total": 39
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 39, 
+            "time": "2020-03-04 23:55:00", 
+            "total": 39
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 31, 
+            "time": "2020-03-05 00:00:00", 
+            "total": 31
+        }
+    ], 
+    "traffic_record": [
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 527, 
+            "time": "2020-03-04 00:05:00", 
+            "total": 527
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 527, 
+            "time": "2020-03-04 00:10:00", 
+            "total": 527
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 527, 
+            "time": "2020-03-04 00:40:00", 
+            "total": 527
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 12, 
+            "time": "2020-03-04 03:40:00", 
+            "total": 12
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 527, 
+            "time": "2020-03-04 04:20:00", 
+            "total": 527
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 782303, 
+            "time": "2020-03-04 04:35:00", 
+            "total": 782303
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 73871589, 
+            "time": "2020-03-04 04:40:00", 
+            "total": 73871589
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 64421017, 
+            "time": "2020-03-04 04:45:00", 
+            "total": 64421017
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 63029650, 
+            "time": "2020-03-04 04:50:00", 
+            "total": 63029650
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 88944667, 
+            "time": "2020-03-04 04:55:00", 
+            "total": 88944667
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 37015618, 
+            "time": "2020-03-04 05:00:00", 
+            "total": 37015618
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 25596136, 
+            "time": "2020-03-04 05:05:00", 
+            "total": 25596136
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7432043, 
+            "time": "2020-03-04 05:10:00", 
+            "total": 7432043
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 106, 
+            "time": "2020-03-04 05:15:00", 
+            "total": 106
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 330771, 
+            "time": "2020-03-04 05:20:00", 
+            "total": 330771
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 37433519, 
+            "time": "2020-03-04 05:25:00", 
+            "total": 37433519
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 137036474, 
+            "time": "2020-03-04 05:30:00", 
+            "total": 137036474
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 107578, 
+            "time": "2020-03-04 05:35:00", 
+            "total": 107578
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 130, 
+            "time": "2020-03-04 05:40:00", 
+            "total": 130
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 71, 
+            "time": "2020-03-04 05:45:00", 
+            "total": 71
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 14437, 
+            "time": "2020-03-04 05:50:00", 
+            "total": 14437
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7219, 
+            "time": "2020-03-04 05:55:00", 
+            "total": 7219
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7231, 
+            "time": "2020-03-04 06:00:00", 
+            "total": 7231
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7302, 
+            "time": "2020-03-04 06:05:00", 
+            "total": 7302
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 10816, 
+            "time": "2020-03-04 06:10:00", 
+            "total": 10816
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 12670759, 
+            "time": "2020-03-04 06:15:00", 
+            "total": 12670759
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 15094133, 
+            "time": "2020-03-04 06:20:00", 
+            "total": 15094133
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 307644, 
+            "time": "2020-03-04 06:25:00", 
+            "total": 307644
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 109, 
+            "time": "2020-03-04 06:30:00", 
+            "total": 109
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 11071855276, 
+            "time": "2020-03-04 06:35:00", 
+            "total": 11071855276
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 17831277775, 
+            "time": "2020-03-04 06:40:00", 
+            "total": 17831277775
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 20555783181, 
+            "time": "2020-03-04 06:45:00", 
+            "total": 20555783181
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 19679734578, 
+            "time": "2020-03-04 06:50:00", 
+            "total": 19679734578
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 19980130955, 
+            "time": "2020-03-04 06:55:00", 
+            "total": 19980130955
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 31711736068, 
+            "time": "2020-03-04 07:00:00", 
+            "total": 31711736068
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 26345862599, 
+            "time": "2020-03-04 07:05:00", 
+            "total": 26345862599
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 20392151109, 
+            "time": "2020-03-04 07:10:00", 
+            "total": 20392151109
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 15881382927, 
+            "time": "2020-03-04 07:15:00", 
+            "total": 15881382927
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 16218752249, 
+            "time": "2020-03-04 07:20:00", 
+            "total": 16218752249
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 14318898324, 
+            "time": "2020-03-04 07:25:00", 
+            "total": 14318898324
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 14515084407, 
+            "time": "2020-03-04 07:30:00", 
+            "total": 14515084407
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 12990547782, 
+            "time": "2020-03-04 07:35:00", 
+            "total": 12990547782
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 12049236895, 
+            "time": "2020-03-04 07:40:00", 
+            "total": 12049236895
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 10861920956, 
+            "time": "2020-03-04 07:45:00", 
+            "total": 10861920956
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 11178999813, 
+            "time": "2020-03-04 07:50:00", 
+            "total": 11178999813
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 10403225991, 
+            "time": "2020-03-04 07:55:00", 
+            "total": 10403225991
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 12145894735, 
+            "time": "2020-03-04 08:00:00", 
+            "total": 12145894735
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 11024811877, 
+            "time": "2020-03-04 08:05:00", 
+            "total": 11024811877
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 10228015958, 
+            "time": "2020-03-04 08:10:00", 
+            "total": 10228015958
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7990536188, 
+            "time": "2020-03-04 08:15:00", 
+            "total": 7990536188
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 8240720144, 
+            "time": "2020-03-04 08:20:00", 
+            "total": 8240720144
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7759009533, 
+            "time": "2020-03-04 08:25:00", 
+            "total": 7759009533
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7605626097, 
+            "time": "2020-03-04 08:30:00", 
+            "total": 7605626097
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6491594662, 
+            "time": "2020-03-04 08:35:00", 
+            "total": 6491594662
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6027640163, 
+            "time": "2020-03-04 08:40:00", 
+            "total": 6027640163
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6747646638, 
+            "time": "2020-03-04 08:45:00", 
+            "total": 6747646638
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6262659872, 
+            "time": "2020-03-04 08:50:00", 
+            "total": 6262659872
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6115720759, 
+            "time": "2020-03-04 08:55:00", 
+            "total": 6115720759
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7310043319, 
+            "time": "2020-03-04 09:00:00", 
+            "total": 7310043319
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7905182689, 
+            "time": "2020-03-04 09:05:00", 
+            "total": 7905182689
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6073437677, 
+            "time": "2020-03-04 09:10:00", 
+            "total": 6073437677
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5704198747, 
+            "time": "2020-03-04 09:15:00", 
+            "total": 5704198747
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5641509928, 
+            "time": "2020-03-04 09:20:00", 
+            "total": 5641509928
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5617207069, 
+            "time": "2020-03-04 09:25:00", 
+            "total": 5617207069
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4330601965, 
+            "time": "2020-03-04 09:30:00", 
+            "total": 4330601965
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4150765970, 
+            "time": "2020-03-04 09:35:00", 
+            "total": 4150765970
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5214967695, 
+            "time": "2020-03-04 09:40:00", 
+            "total": 5214967695
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5045576999, 
+            "time": "2020-03-04 09:45:00", 
+            "total": 5045576999
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4954939123, 
+            "time": "2020-03-04 09:50:00", 
+            "total": 4954939123
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4505707122, 
+            "time": "2020-03-04 09:55:00", 
+            "total": 4505707122
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4220754456, 
+            "time": "2020-03-04 10:00:00", 
+            "total": 4220754456
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4809727642, 
+            "time": "2020-03-04 10:05:00", 
+            "total": 4809727642
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4828881539, 
+            "time": "2020-03-04 10:10:00", 
+            "total": 4828881539
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4588883639, 
+            "time": "2020-03-04 10:15:00", 
+            "total": 4588883639
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3795296113, 
+            "time": "2020-03-04 10:20:00", 
+            "total": 3795296113
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3720693052, 
+            "time": "2020-03-04 10:25:00", 
+            "total": 3720693052
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3714136187, 
+            "time": "2020-03-04 10:30:00", 
+            "total": 3714136187
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3452096150, 
+            "time": "2020-03-04 10:35:00", 
+            "total": 3452096150
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3680580817, 
+            "time": "2020-03-04 10:40:00", 
+            "total": 3680580817
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3409612578, 
+            "time": "2020-03-04 10:45:00", 
+            "total": 3409612578
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2885982410, 
+            "time": "2020-03-04 10:50:00", 
+            "total": 2885982410
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3089504581, 
+            "time": "2020-03-04 10:55:00", 
+            "total": 3089504581
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2993907159, 
+            "time": "2020-03-04 11:00:00", 
+            "total": 2993907159
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2813357232, 
+            "time": "2020-03-04 11:05:00", 
+            "total": 2813357232
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2881676185, 
+            "time": "2020-03-04 11:10:00", 
+            "total": 2881676185
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2817903423, 
+            "time": "2020-03-04 11:15:00", 
+            "total": 2817903423
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2756501290, 
+            "time": "2020-03-04 11:20:00", 
+            "total": 2756501290
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2968264457, 
+            "time": "2020-03-04 11:25:00", 
+            "total": 2968264457
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2991994130, 
+            "time": "2020-03-04 11:30:00", 
+            "total": 2991994130
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3152317156, 
+            "time": "2020-03-04 11:35:00", 
+            "total": 3152317156
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3121652888, 
+            "time": "2020-03-04 11:40:00", 
+            "total": 3121652888
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3330806653, 
+            "time": "2020-03-04 11:45:00", 
+            "total": 3330806653
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3081184481, 
+            "time": "2020-03-04 11:50:00", 
+            "total": 3081184481
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3161231678, 
+            "time": "2020-03-04 11:55:00", 
+            "total": 3161231678
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3506739397, 
+            "time": "2020-03-04 12:00:00", 
+            "total": 3506739397
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4883023857, 
+            "time": "2020-03-04 12:05:00", 
+            "total": 4883023857
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3910237156, 
+            "time": "2020-03-04 12:10:00", 
+            "total": 3910237156
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3591153879, 
+            "time": "2020-03-04 12:15:00", 
+            "total": 3591153879
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3985909391, 
+            "time": "2020-03-04 12:20:00", 
+            "total": 3985909391
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3696269715, 
+            "time": "2020-03-04 12:25:00", 
+            "total": 3696269715
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3289657623, 
+            "time": "2020-03-04 12:30:00", 
+            "total": 3289657623
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3541203472, 
+            "time": "2020-03-04 12:35:00", 
+            "total": 3541203472
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3076030484, 
+            "time": "2020-03-04 12:40:00", 
+            "total": 3076030484
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2607523632, 
+            "time": "2020-03-04 12:45:00", 
+            "total": 2607523632
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2563451781, 
+            "time": "2020-03-04 12:50:00", 
+            "total": 2563451781
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2440453805, 
+            "time": "2020-03-04 12:55:00", 
+            "total": 2440453805
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2272794949, 
+            "time": "2020-03-04 13:00:00", 
+            "total": 2272794949
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2240485003, 
+            "time": "2020-03-04 13:05:00", 
+            "total": 2240485003
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2044500055, 
+            "time": "2020-03-04 13:10:00", 
+            "total": 2044500055
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2139334988, 
+            "time": "2020-03-04 13:15:00", 
+            "total": 2139334988
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1954554152, 
+            "time": "2020-03-04 13:20:00", 
+            "total": 1954554152
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1809980379, 
+            "time": "2020-03-04 13:25:00", 
+            "total": 1809980379
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1906185377, 
+            "time": "2020-03-04 13:30:00", 
+            "total": 1906185377
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2252766691, 
+            "time": "2020-03-04 13:35:00", 
+            "total": 2252766691
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1743670720, 
+            "time": "2020-03-04 13:40:00", 
+            "total": 1743670720
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1880093861, 
+            "time": "2020-03-04 13:45:00", 
+            "total": 1880093861
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1520950859, 
+            "time": "2020-03-04 13:50:00", 
+            "total": 1520950859
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1743157024, 
+            "time": "2020-03-04 13:55:00", 
+            "total": 1743157024
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1563921830, 
+            "time": "2020-03-04 14:00:00", 
+            "total": 1563921830
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1480895723, 
+            "time": "2020-03-04 14:05:00", 
+            "total": 1480895723
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1507260028, 
+            "time": "2020-03-04 14:10:00", 
+            "total": 1507260028
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1559362948, 
+            "time": "2020-03-04 14:15:00", 
+            "total": 1559362948
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1695634938, 
+            "time": "2020-03-04 14:20:00", 
+            "total": 1695634938
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1273058627, 
+            "time": "2020-03-04 14:25:00", 
+            "total": 1273058627
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1736249198, 
+            "time": "2020-03-04 14:30:00", 
+            "total": 1736249198
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1467499292, 
+            "time": "2020-03-04 14:35:00", 
+            "total": 1467499292
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1759253933, 
+            "time": "2020-03-04 14:40:00", 
+            "total": 1759253933
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1329637034, 
+            "time": "2020-03-04 14:45:00", 
+            "total": 1329637034
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1521079047, 
+            "time": "2020-03-04 14:50:00", 
+            "total": 1521079047
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1630778657, 
+            "time": "2020-03-04 14:55:00", 
+            "total": 1630778657
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1374675117, 
+            "time": "2020-03-04 15:00:00", 
+            "total": 1374675117
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1491629216, 
+            "time": "2020-03-04 15:05:00", 
+            "total": 1491629216
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1326340033, 
+            "time": "2020-03-04 15:10:00", 
+            "total": 1326340033
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1369126685, 
+            "time": "2020-03-04 15:15:00", 
+            "total": 1369126685
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1219470648, 
+            "time": "2020-03-04 15:20:00", 
+            "total": 1219470648
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1577960633, 
+            "time": "2020-03-04 15:25:00", 
+            "total": 1577960633
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1519575672, 
+            "time": "2020-03-04 15:30:00", 
+            "total": 1519575672
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1330426840, 
+            "time": "2020-03-04 15:35:00", 
+            "total": 1330426840
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1632458261, 
+            "time": "2020-03-04 15:40:00", 
+            "total": 1632458261
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1721764706, 
+            "time": "2020-03-04 15:45:00", 
+            "total": 1721764706
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1479511283, 
+            "time": "2020-03-04 15:50:00", 
+            "total": 1479511283
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1541008980, 
+            "time": "2020-03-04 15:55:00", 
+            "total": 1541008980
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1600692666, 
+            "time": "2020-03-04 16:00:00", 
+            "total": 1600692666
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1321807431, 
+            "time": "2020-03-04 16:05:00", 
+            "total": 1321807431
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1271106132, 
+            "time": "2020-03-04 16:10:00", 
+            "total": 1271106132
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1566622822, 
+            "time": "2020-03-04 16:15:00", 
+            "total": 1566622822
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1588099725, 
+            "time": "2020-03-04 16:20:00", 
+            "total": 1588099725
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1420981916, 
+            "time": "2020-03-04 16:25:00", 
+            "total": 1420981916
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1562573593, 
+            "time": "2020-03-04 16:30:00", 
+            "total": 1562573593
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1148914891, 
+            "time": "2020-03-04 16:35:00", 
+            "total": 1148914891
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1565531290, 
+            "time": "2020-03-04 16:40:00", 
+            "total": 1565531290
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1331869133, 
+            "time": "2020-03-04 16:45:00", 
+            "total": 1331869133
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1335198061, 
+            "time": "2020-03-04 16:50:00", 
+            "total": 1335198061
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1408946918, 
+            "time": "2020-03-04 16:55:00", 
+            "total": 1408946918
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1535518432, 
+            "time": "2020-03-04 17:00:00", 
+            "total": 1535518432
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1321341213, 
+            "time": "2020-03-04 17:05:00", 
+            "total": 1321341213
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1327011952, 
+            "time": "2020-03-04 17:10:00", 
+            "total": 1327011952
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1235321960, 
+            "time": "2020-03-04 17:15:00", 
+            "total": 1235321960
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1756027389, 
+            "time": "2020-03-04 17:20:00", 
+            "total": 1756027389
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1682701731, 
+            "time": "2020-03-04 17:25:00", 
+            "total": 1682701731
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1639623472, 
+            "time": "2020-03-04 17:30:00", 
+            "total": 1639623472
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1588767662, 
+            "time": "2020-03-04 17:35:00", 
+            "total": 1588767662
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1591580636, 
+            "time": "2020-03-04 17:40:00", 
+            "total": 1591580636
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3306999112, 
+            "time": "2020-03-04 17:45:00", 
+            "total": 3306999112
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5751246094, 
+            "time": "2020-03-04 17:50:00", 
+            "total": 5751246094
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6618809045, 
+            "time": "2020-03-04 17:55:00", 
+            "total": 6618809045
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5366430724, 
+            "time": "2020-03-04 18:00:00", 
+            "total": 5366430724
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 7292322894, 
+            "time": "2020-03-04 18:05:00", 
+            "total": 7292322894
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6250851686, 
+            "time": "2020-03-04 18:10:00", 
+            "total": 6250851686
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 6244748173, 
+            "time": "2020-03-04 18:15:00", 
+            "total": 6244748173
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5941734017, 
+            "time": "2020-03-04 18:20:00", 
+            "total": 5941734017
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5347558309, 
+            "time": "2020-03-04 18:25:00", 
+            "total": 5347558309
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5162413809, 
+            "time": "2020-03-04 18:30:00", 
+            "total": 5162413809
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4793435313, 
+            "time": "2020-03-04 18:35:00", 
+            "total": 4793435313
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5562232752, 
+            "time": "2020-03-04 18:40:00", 
+            "total": 5562232752
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5208419691, 
+            "time": "2020-03-04 18:45:00", 
+            "total": 5208419691
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4982196767, 
+            "time": "2020-03-04 18:50:00", 
+            "total": 4982196767
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5109527393, 
+            "time": "2020-03-04 18:55:00", 
+            "total": 5109527393
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4659923711, 
+            "time": "2020-03-04 19:00:00", 
+            "total": 4659923711
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 5188507297, 
+            "time": "2020-03-04 19:05:00", 
+            "total": 5188507297
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4726284465, 
+            "time": "2020-03-04 19:10:00", 
+            "total": 4726284465
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4544514526, 
+            "time": "2020-03-04 19:15:00", 
+            "total": 4544514526
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4357621581, 
+            "time": "2020-03-04 19:20:00", 
+            "total": 4357621581
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4507691563, 
+            "time": "2020-03-04 19:25:00", 
+            "total": 4507691563
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4661170385, 
+            "time": "2020-03-04 19:30:00", 
+            "total": 4661170385
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4034004229, 
+            "time": "2020-03-04 19:35:00", 
+            "total": 4034004229
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3834979084, 
+            "time": "2020-03-04 19:40:00", 
+            "total": 3834979084
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4634288730, 
+            "time": "2020-03-04 19:45:00", 
+            "total": 4634288730
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4254325012, 
+            "time": "2020-03-04 19:50:00", 
+            "total": 4254325012
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3971690373, 
+            "time": "2020-03-04 19:55:00", 
+            "total": 3971690373
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4108066427, 
+            "time": "2020-03-04 20:00:00", 
+            "total": 4108066427
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4442954152, 
+            "time": "2020-03-04 20:05:00", 
+            "total": 4442954152
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4290566077, 
+            "time": "2020-03-04 20:10:00", 
+            "total": 4290566077
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3896264398, 
+            "time": "2020-03-04 20:15:00", 
+            "total": 3896264398
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3698577322, 
+            "time": "2020-03-04 20:20:00", 
+            "total": 3698577322
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3673800789, 
+            "time": "2020-03-04 20:25:00", 
+            "total": 3673800789
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4102741842, 
+            "time": "2020-03-04 20:30:00", 
+            "total": 4102741842
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3639768873, 
+            "time": "2020-03-04 20:35:00", 
+            "total": 3639768873
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3859685504, 
+            "time": "2020-03-04 20:40:00", 
+            "total": 3859685504
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3379814690, 
+            "time": "2020-03-04 20:45:00", 
+            "total": 3379814690
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3397279172, 
+            "time": "2020-03-04 20:50:00", 
+            "total": 3397279172
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3468278253, 
+            "time": "2020-03-04 20:55:00", 
+            "total": 3468278253
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4158316387, 
+            "time": "2020-03-04 21:00:00", 
+            "total": 4158316387
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4514350608, 
+            "time": "2020-03-04 21:05:00", 
+            "total": 4514350608
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3808950059, 
+            "time": "2020-03-04 21:10:00", 
+            "total": 3808950059
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4148546790, 
+            "time": "2020-03-04 21:15:00", 
+            "total": 4148546790
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3979235461, 
+            "time": "2020-03-04 21:20:00", 
+            "total": 3979235461
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3500472556, 
+            "time": "2020-03-04 21:25:00", 
+            "total": 3500472556
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3931771257, 
+            "time": "2020-03-04 21:30:00", 
+            "total": 3931771257
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3394941810, 
+            "time": "2020-03-04 21:35:00", 
+            "total": 3394941810
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3771152900, 
+            "time": "2020-03-04 21:40:00", 
+            "total": 3771152900
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3559522698, 
+            "time": "2020-03-04 21:45:00", 
+            "total": 3559522698
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3862419754, 
+            "time": "2020-03-04 21:50:00", 
+            "total": 3862419754
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3909156819, 
+            "time": "2020-03-04 21:55:00", 
+            "total": 3909156819
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3443506823, 
+            "time": "2020-03-04 22:00:00", 
+            "total": 3443506823
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3375686367, 
+            "time": "2020-03-04 22:05:00", 
+            "total": 3375686367
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2922560296, 
+            "time": "2020-03-04 22:10:00", 
+            "total": 2922560296
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3017139268, 
+            "time": "2020-03-04 22:15:00", 
+            "total": 3017139268
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2828381609, 
+            "time": "2020-03-04 22:20:00", 
+            "total": 2828381609
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2808594686, 
+            "time": "2020-03-04 22:25:00", 
+            "total": 2808594686
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2748133036, 
+            "time": "2020-03-04 22:30:00", 
+            "total": 2748133036
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2949563650, 
+            "time": "2020-03-04 22:35:00", 
+            "total": 2949563650
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3057847766, 
+            "time": "2020-03-04 22:40:00", 
+            "total": 3057847766
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2660798246, 
+            "time": "2020-03-04 22:45:00", 
+            "total": 2660798246
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2544712224, 
+            "time": "2020-03-04 22:50:00", 
+            "total": 2544712224
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2667369929, 
+            "time": "2020-03-04 22:55:00", 
+            "total": 2667369929
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2474323721, 
+            "time": "2020-03-04 23:00:00", 
+            "total": 2474323721
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2295649525, 
+            "time": "2020-03-04 23:05:00", 
+            "total": 2295649525
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2959604107, 
+            "time": "2020-03-04 23:10:00", 
+            "total": 2959604107
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2504159209, 
+            "time": "2020-03-04 23:15:00", 
+            "total": 2504159209
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2258380129, 
+            "time": "2020-03-04 23:20:00", 
+            "total": 2258380129
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2628412149, 
+            "time": "2020-03-04 23:25:00", 
+            "total": 2628412149
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2391953689, 
+            "time": "2020-03-04 23:30:00", 
+            "total": 2391953689
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2305602203, 
+            "time": "2020-03-04 23:35:00", 
+            "total": 2305602203
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2228744239, 
+            "time": "2020-03-04 23:40:00", 
+            "total": 2228744239
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2426993681, 
+            "time": "2020-03-04 23:45:00", 
+            "total": 2426993681
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2362843471, 
+            "time": "2020-03-04 23:50:00", 
+            "total": 2362843471
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2407240304, 
+            "time": "2020-03-04 23:55:00", 
+            "total": 2407240304
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1868668170, 
+            "time": "2020-03-05 00:00:00", 
+            "total": 1868668170
+        }
+    ], 
+    "transmission_record": [
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 17963, 
+            "time": "2020-03-04 00:05:00", 
+            "total": 17963
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 17955, 
+            "time": "2020-03-04 00:10:00", 
+            "total": 17955
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 17955, 
+            "time": "2020-03-04 00:40:00", 
+            "total": 17955
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 00:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 01:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:40:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 02:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:20:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:35:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 402, 
+            "time": "2020-03-04 03:40:00", 
+            "total": 402
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:45:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:50:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 03:55:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:00:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:05:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:10:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:15:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 17963, 
+            "time": "2020-03-04 04:20:00", 
+            "total": 17963
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:25:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 0, 
+            "time": "2020-03-04 04:30:00", 
+            "total": 0
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 26669433, 
+            "time": "2020-03-04 04:35:00", 
+            "total": 26669433
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2518349616, 
+            "time": "2020-03-04 04:40:00", 
+            "total": 2518349616
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2196171049, 
+            "time": "2020-03-04 04:45:00", 
+            "total": 2196171049
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2148738059, 
+            "time": "2020-03-04 04:50:00", 
+            "total": 2148738059
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3032204570, 
+            "time": "2020-03-04 04:55:00", 
+            "total": 3032204570
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1261896072, 
+            "time": "2020-03-04 05:00:00", 
+            "total": 1261896072
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 872595551, 
+            "time": "2020-03-04 05:05:00", 
+            "total": 872595551
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 253365089, 
+            "time": "2020-03-04 05:10:00", 
+            "total": 253365089
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3628, 
+            "time": "2020-03-04 05:15:00", 
+            "total": 3628
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 11276299, 
+            "time": "2020-03-04 05:20:00", 
+            "total": 11276299
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1276142696, 
+            "time": "2020-03-04 05:25:00", 
+            "total": 1276142696
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4671697982, 
+            "time": "2020-03-04 05:30:00", 
+            "total": 4671697982
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3667424, 
+            "time": "2020-03-04 05:35:00", 
+            "total": 3667424
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 4428, 
+            "time": "2020-03-04 05:40:00", 
+            "total": 4428
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 2422, 
+            "time": "2020-03-04 05:45:00", 
+            "total": 2422
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 492180, 
+            "time": "2020-03-04 05:50:00", 
+            "total": 492180
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 246091, 
+            "time": "2020-03-04 05:55:00", 
+            "total": 246091
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 246497, 
+            "time": "2020-03-04 06:00:00", 
+            "total": 246497
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 248922, 
+            "time": "2020-03-04 06:05:00", 
+            "total": 248922
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 368730, 
+            "time": "2020-03-04 06:10:00", 
+            "total": 368730
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 431957688, 
+            "time": "2020-03-04 06:15:00", 
+            "total": 431957688
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 514572707, 
+            "time": "2020-03-04 06:20:00", 
+            "total": 514572707
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 10487864, 
+            "time": "2020-03-04 06:25:00", 
+            "total": 10487864
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 3714, 
+            "time": "2020-03-04 06:30:00", 
+            "total": 3714
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 377449611675, 
+            "time": "2020-03-04 06:35:00", 
+            "total": 377449611675
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 607884469602, 
+            "time": "2020-03-04 06:40:00", 
+            "total": 607884469602
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 700765335702, 
+            "time": "2020-03-04 06:45:00", 
+            "total": 700765335702
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 670900042423, 
+            "time": "2020-03-04 06:50:00", 
+            "total": 670900042423
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 681140828023, 
+            "time": "2020-03-04 06:55:00", 
+            "total": 681140828023
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 1081081911412, 
+            "time": "2020-03-04 07:00:00", 
+            "total": 1081081911412
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 898154406772, 
+            "time": "2020-03-04 07:05:00", 
+            "total": 898154406772
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 695186969610, 
+            "time": "2020-03-04 07:10:00", 
+            "total": 695186969610
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 541410781599, 
+            "time": "2020-03-04 07:15:00", 
+            "total": 541410781599
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 552912008490, 
+            "time": "2020-03-04 07:20:00", 
+            "total": 552912008490
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 488144261039, 
+            "time": "2020-03-04 07:25:00", 
+            "total": 488144261039
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 494832422963, 
+            "time": "2020-03-04 07:30:00", 
+            "total": 494832422963
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 442859583471, 
+            "time": "2020-03-04 07:35:00", 
+            "total": 442859583471
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 410769439618, 
+            "time": "2020-03-04 07:40:00", 
+            "total": 410769439618
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 370292759867, 
+            "time": "2020-03-04 07:45:00", 
+            "total": 370292759867
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 381102266366, 
+            "time": "2020-03-04 07:50:00", 
+            "total": 381102266366
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 354655431509, 
+            "time": "2020-03-04 07:55:00", 
+            "total": 354655431509
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 414064593240, 
+            "time": "2020-03-04 08:00:00", 
+            "total": 414064593240
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 375845859457, 
+            "time": "2020-03-04 08:05:00", 
+            "total": 375845859457
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 348682362195, 
+            "time": "2020-03-04 08:10:00", 
+            "total": 348682362195
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 272404642788, 
+            "time": "2020-03-04 08:15:00", 
+            "total": 272404642788
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 280933641257, 
+            "time": "2020-03-04 08:20:00", 
+            "total": 280933641257
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 264511688618, 
+            "time": "2020-03-04 08:25:00", 
+            "total": 264511688618
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 259282707868, 
+            "time": "2020-03-04 08:30:00", 
+            "total": 259282707868
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 221304363488, 
+            "time": "2020-03-04 08:35:00", 
+            "total": 221304363488
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 205487732821, 
+            "time": "2020-03-04 08:40:00", 
+            "total": 205487732821
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 230033408105, 
+            "time": "2020-03-04 08:45:00", 
+            "total": 230033408105
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 213499768365, 
+            "time": "2020-03-04 08:50:00", 
+            "total": 213499768365
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 208490480409, 
+            "time": "2020-03-04 08:55:00", 
+            "total": 208490480409
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 249206022225, 
+            "time": "2020-03-04 09:00:00", 
+            "total": 249206022225
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 269494864404, 
+            "time": "2020-03-04 09:05:00", 
+            "total": 269494864404
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 207049011730, 
+            "time": "2020-03-04 09:10:00", 
+            "total": 207049011730
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 194461320927, 
+            "time": "2020-03-04 09:15:00", 
+            "total": 194461320927
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 192324202086, 
+            "time": "2020-03-04 09:20:00", 
+            "total": 192324202086
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 191495695522, 
+            "time": "2020-03-04 09:25:00", 
+            "total": 191495695522
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 147634157886, 
+            "time": "2020-03-04 09:30:00", 
+            "total": 147634157886
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 141503385336, 
+            "time": "2020-03-04 09:35:00", 
+            "total": 141503385336
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 177782989595, 
+            "time": "2020-03-04 09:40:00", 
+            "total": 177782989595
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 172008306794, 
+            "time": "2020-03-04 09:45:00", 
+            "total": 172008306794
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 168918379190, 
+            "time": "2020-03-04 09:50:00", 
+            "total": 168918379190
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 153603651888, 
+            "time": "2020-03-04 09:55:00", 
+            "total": 153603651888
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 143889356443, 
+            "time": "2020-03-04 10:00:00", 
+            "total": 143889356443
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 163967987801, 
+            "time": "2020-03-04 10:05:00", 
+            "total": 163967987801
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 164620961555, 
+            "time": "2020-03-04 10:10:00", 
+            "total": 164620961555
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 156439214949, 
+            "time": "2020-03-04 10:15:00", 
+            "total": 156439214949
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 129385094772, 
+            "time": "2020-03-04 10:20:00", 
+            "total": 129385094772
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 126841808584, 
+            "time": "2020-03-04 10:25:00", 
+            "total": 126841808584
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 126618279091, 
+            "time": "2020-03-04 10:30:00", 
+            "total": 126618279091
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 117685096031, 
+            "time": "2020-03-04 10:35:00", 
+            "total": 117685096031
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 125474346028, 
+            "time": "2020-03-04 10:40:00", 
+            "total": 125474346028
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 116236792421, 
+            "time": "2020-03-04 10:45:00", 
+            "total": 116236792421
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 98385763974, 
+            "time": "2020-03-04 10:50:00", 
+            "total": 98385763974
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 105324019803, 
+            "time": "2020-03-04 10:55:00", 
+            "total": 105324019803
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 102065016800, 
+            "time": "2020-03-04 11:00:00", 
+            "total": 102065016800
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 95909905648, 
+            "time": "2020-03-04 11:05:00", 
+            "total": 95909905648
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 98238960864, 
+            "time": "2020-03-04 11:10:00", 
+            "total": 98238960864
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 96064889415, 
+            "time": "2020-03-04 11:15:00", 
+            "total": 96064889415
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 93971634875, 
+            "time": "2020-03-04 11:20:00", 
+            "total": 93971634875
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 101190833766, 
+            "time": "2020-03-04 11:25:00", 
+            "total": 101190833766
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 101999799885, 
+            "time": "2020-03-04 11:30:00", 
+            "total": 101999799885
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 107465357592, 
+            "time": "2020-03-04 11:35:00", 
+            "total": 107465357592
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 106419984823, 
+            "time": "2020-03-04 11:40:00", 
+            "total": 106419984823
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 113550226791, 
+            "time": "2020-03-04 11:45:00", 
+            "total": 113550226791
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 105040380023, 
+            "time": "2020-03-04 11:50:00", 
+            "total": 105040380023
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 107769261744, 
+            "time": "2020-03-04 11:55:00", 
+            "total": 107769261744
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 119547933998, 
+            "time": "2020-03-04 12:00:00", 
+            "total": 119547933998
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 166466722394, 
+            "time": "2020-03-04 12:05:00", 
+            "total": 166466722394
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 133303539398, 
+            "time": "2020-03-04 12:10:00", 
+            "total": 133303539398
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 122425700406, 
+            "time": "2020-03-04 12:15:00", 
+            "total": 122425700406
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 135883274692, 
+            "time": "2020-03-04 12:20:00", 
+            "total": 135883274692
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 126009194830, 
+            "time": "2020-03-04 12:25:00", 
+            "total": 126009194830
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 112147418966, 
+            "time": "2020-03-04 12:30:00", 
+            "total": 112147418966
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 120722845620, 
+            "time": "2020-03-04 12:35:00", 
+            "total": 120722845620
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 104864675586, 
+            "time": "2020-03-04 12:40:00", 
+            "total": 104864675586
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 88892851100, 
+            "time": "2020-03-04 12:45:00", 
+            "total": 88892851100
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 87390401612, 
+            "time": "2020-03-04 12:50:00", 
+            "total": 87390401612
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 83197288820, 
+            "time": "2020-03-04 12:55:00", 
+            "total": 83197288820
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 77481645994, 
+            "time": "2020-03-04 13:00:00", 
+            "total": 77481645994
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 76380170558, 
+            "time": "2020-03-04 13:05:00", 
+            "total": 76380170558
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 69698865511, 
+            "time": "2020-03-04 13:10:00", 
+            "total": 69698865511
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 72931874606, 
+            "time": "2020-03-04 13:15:00", 
+            "total": 72931874606
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 66632527911, 
+            "time": "2020-03-04 13:20:00", 
+            "total": 66632527911
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 61703876550, 
+            "time": "2020-03-04 13:25:00", 
+            "total": 61703876550
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 64983592385, 
+            "time": "2020-03-04 13:30:00", 
+            "total": 64983592385
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 76798864477, 
+            "time": "2020-03-04 13:35:00", 
+            "total": 76798864477
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 59443319989, 
+            "time": "2020-03-04 13:40:00", 
+            "total": 59443319989
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 64094108911, 
+            "time": "2020-03-04 13:45:00", 
+            "total": 64094108911
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 51850597467, 
+            "time": "2020-03-04 13:50:00", 
+            "total": 51850597467
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 59425807649, 
+            "time": "2020-03-04 13:55:00", 
+            "total": 59425807649
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 53315516938, 
+            "time": "2020-03-04 14:00:00", 
+            "total": 53315516938
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 50485081460, 
+            "time": "2020-03-04 14:05:00", 
+            "total": 50485081460
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 51383864592, 
+            "time": "2020-03-04 14:10:00", 
+            "total": 51383864592
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 53160100491, 
+            "time": "2020-03-04 14:15:00", 
+            "total": 53160100491
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 57805736533, 
+            "time": "2020-03-04 14:20:00", 
+            "total": 57805736533
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 43399725916, 
+            "time": "2020-03-04 14:25:00", 
+            "total": 43399725916
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 59190313578, 
+            "time": "2020-03-04 14:30:00", 
+            "total": 59190313578
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 50028384939, 
+            "time": "2020-03-04 14:35:00", 
+            "total": 50028384939
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 59974565892, 
+            "time": "2020-03-04 14:40:00", 
+            "total": 59974565892
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 45328535236, 
+            "time": "2020-03-04 14:45:00", 
+            "total": 45328535236
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 51854967495, 
+            "time": "2020-03-04 14:50:00", 
+            "total": 51854967495
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 55594726943, 
+            "time": "2020-03-04 14:55:00", 
+            "total": 55594726943
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 46863924427, 
+            "time": "2020-03-04 15:00:00", 
+            "total": 46863924427
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 50850996006, 
+            "time": "2020-03-04 15:05:00", 
+            "total": 50850996006
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 45216137486, 
+            "time": "2020-03-04 15:10:00", 
+            "total": 45216137486
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 46674773342, 
+            "time": "2020-03-04 15:15:00", 
+            "total": 46674773342
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 41572863007, 
+            "time": "2020-03-04 15:20:00", 
+            "total": 41572863007
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 53794112472, 
+            "time": "2020-03-04 15:25:00", 
+            "total": 53794112472
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 51803716076, 
+            "time": "2020-03-04 15:30:00", 
+            "total": 51803716076
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 45355460455, 
+            "time": "2020-03-04 15:35:00", 
+            "total": 45355460455
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 55651986187, 
+            "time": "2020-03-04 15:40:00", 
+            "total": 55651986187
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 58696524058, 
+            "time": "2020-03-04 15:45:00", 
+            "total": 58696524058
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 50437884635, 
+            "time": "2020-03-04 15:50:00", 
+            "total": 50437884635
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 52534397030, 
+            "time": "2020-03-04 15:55:00", 
+            "total": 52534397030
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 54569068158, 
+            "time": "2020-03-04 16:00:00", 
+            "total": 54569068158
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 45061616959, 
+            "time": "2020-03-04 16:05:00", 
+            "total": 45061616959
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 43333163586, 
+            "time": "2020-03-04 16:10:00", 
+            "total": 43333163586
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 53407596220, 
+            "time": "2020-03-04 16:15:00", 
+            "total": 53407596220
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 54139763348, 
+            "time": "2020-03-04 16:20:00", 
+            "total": 54139763348
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 48442565311, 
+            "time": "2020-03-04 16:25:00", 
+            "total": 48442565311
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 53269554303, 
+            "time": "2020-03-04 16:30:00", 
+            "total": 53269554303
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 39167553103, 
+            "time": "2020-03-04 16:35:00", 
+            "total": 39167553103
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 53370384870, 
+            "time": "2020-03-04 16:40:00", 
+            "total": 53370384870
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 45404629522, 
+            "time": "2020-03-04 16:45:00", 
+            "total": 45404629522
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 45518115707, 
+            "time": "2020-03-04 16:50:00", 
+            "total": 45518115707
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 48032281294, 
+            "time": "2020-03-04 16:55:00", 
+            "total": 48032281294
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 52347219283, 
+            "time": "2020-03-04 17:00:00", 
+            "total": 52347219283
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 45045723171, 
+            "time": "2020-03-04 17:05:00", 
+            "total": 45045723171
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 45239043804, 
+            "time": "2020-03-04 17:10:00", 
+            "total": 45239043804
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 42113248640, 
+            "time": "2020-03-04 17:15:00", 
+            "total": 42113248640
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 59864570070, 
+            "time": "2020-03-04 17:20:00", 
+            "total": 59864570070
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 57364831743, 
+            "time": "2020-03-04 17:25:00", 
+            "total": 57364831743
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 55896254744, 
+            "time": "2020-03-04 17:30:00", 
+            "total": 55896254744
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 54162533947, 
+            "time": "2020-03-04 17:35:00", 
+            "total": 54162533947
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 54258430777, 
+            "time": "2020-03-04 17:40:00", 
+            "total": 54258430777
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 112738606096, 
+            "time": "2020-03-04 17:45:00", 
+            "total": 112738606096
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 196065207756, 
+            "time": "2020-03-04 17:50:00", 
+            "total": 196065207756
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 225641217452, 
+            "time": "2020-03-04 17:55:00", 
+            "total": 225641217452
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 182946501964, 
+            "time": "2020-03-04 18:00:00", 
+            "total": 182946501964
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 248601916850, 
+            "time": "2020-03-04 18:05:00", 
+            "total": 248601916850
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 213097216565, 
+            "time": "2020-03-04 18:10:00", 
+            "total": 213097216565
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 212889142265, 
+            "time": "2020-03-04 18:15:00", 
+            "total": 212889142265
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 202559114214, 
+            "time": "2020-03-04 18:20:00", 
+            "total": 202559114214
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 182303124155, 
+            "time": "2020-03-04 18:25:00", 
+            "total": 182303124155
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 175991379851, 
+            "time": "2020-03-04 18:30:00", 
+            "total": 175991379851
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 163412567501, 
+            "time": "2020-03-04 18:35:00", 
+            "total": 163412567501
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 189621571085, 
+            "time": "2020-03-04 18:40:00", 
+            "total": 189621571085
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 177559762209, 
+            "time": "2020-03-04 18:45:00", 
+            "total": 177559762209
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 169847617051, 
+            "time": "2020-03-04 18:50:00", 
+            "total": 169847617051
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 174188433861, 
+            "time": "2020-03-04 18:55:00", 
+            "total": 174188433861
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 158861035615, 
+            "time": "2020-03-04 19:00:00", 
+            "total": 158861035615
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 176880930589, 
+            "time": "2020-03-04 19:05:00", 
+            "total": 176880930589
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 161123334019, 
+            "time": "2020-03-04 19:10:00", 
+            "total": 161123334019
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 154926631569, 
+            "time": "2020-03-04 19:15:00", 
+            "total": 154926631569
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 148555281176, 
+            "time": "2020-03-04 19:20:00", 
+            "total": 148555281176
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 153671303279, 
+            "time": "2020-03-04 19:25:00", 
+            "total": 153671303279
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 158903535845, 
+            "time": "2020-03-04 19:30:00", 
+            "total": 158903535845
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 137522871456, 
+            "time": "2020-03-04 19:35:00", 
+            "total": 137522871456
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 130737923330, 
+            "time": "2020-03-04 19:40:00", 
+            "total": 130737923330
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 157987115797, 
+            "time": "2020-03-04 19:45:00", 
+            "total": 157987115797
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 145033807222, 
+            "time": "2020-03-04 19:50:00", 
+            "total": 145033807222
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 135398535433, 
+            "time": "2020-03-04 19:55:00", 
+            "total": 135398535433
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 140047719109, 
+            "time": "2020-03-04 20:00:00", 
+            "total": 140047719109
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 151464346099, 
+            "time": "2020-03-04 20:05:00", 
+            "total": 151464346099
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 146269298068, 
+            "time": "2020-03-04 20:10:00", 
+            "total": 146269298068
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 132827195379, 
+            "time": "2020-03-04 20:15:00", 
+            "total": 132827195379
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 126087863244, 
+            "time": "2020-03-04 20:20:00", 
+            "total": 126087863244
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 125243208724, 
+            "time": "2020-03-04 20:25:00", 
+            "total": 125243208724
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 139866199150, 
+            "time": "2020-03-04 20:30:00", 
+            "total": 139866199150
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 124083029757, 
+            "time": "2020-03-04 20:35:00", 
+            "total": 124083029757
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 131580187625, 
+            "time": "2020-03-04 20:40:00", 
+            "total": 131580187625
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 115220955324, 
+            "time": "2020-03-04 20:45:00", 
+            "total": 115220955324
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 115816335409, 
+            "time": "2020-03-04 20:50:00", 
+            "total": 115816335409
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 118236758620, 
+            "time": "2020-03-04 20:55:00", 
+            "total": 118236758620
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 141760785929, 
+            "time": "2020-03-04 21:00:00", 
+            "total": 141760785929
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 153898316181, 
+            "time": "2020-03-04 21:05:00", 
+            "total": 153898316181
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 129850570188, 
+            "time": "2020-03-04 21:10:00", 
+            "total": 129850570188
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 141427731489, 
+            "time": "2020-03-04 21:15:00", 
+            "total": 141427731489
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 135655754364, 
+            "time": "2020-03-04 21:20:00", 
+            "total": 135655754364
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 119334291690, 
+            "time": "2020-03-04 21:25:00", 
+            "total": 119334291690
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 134037656483, 
+            "time": "2020-03-04 21:30:00", 
+            "total": 134037656483
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 115736652605, 
+            "time": "2020-03-04 21:35:00", 
+            "total": 115736652605
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 128562030679, 
+            "time": "2020-03-04 21:40:00", 
+            "total": 128562030679
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 121347364715, 
+            "time": "2020-03-04 21:45:00", 
+            "total": 121347364715
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 131673400692, 
+            "time": "2020-03-04 21:50:00", 
+            "total": 131673400692
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 133266709741, 
+            "time": "2020-03-04 21:55:00", 
+            "total": 133266709741
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 117392278040, 
+            "time": "2020-03-04 22:00:00", 
+            "total": 117392278040
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 115080217046, 
+            "time": "2020-03-04 22:05:00", 
+            "total": 115080217046
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 99632737376, 
+            "time": "2020-03-04 22:10:00", 
+            "total": 99632737376
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 102857020496, 
+            "time": "2020-03-04 22:15:00", 
+            "total": 102857020496
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 96422100322, 
+            "time": "2020-03-04 22:20:00", 
+            "total": 96422100322
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 95747546103, 
+            "time": "2020-03-04 22:25:00", 
+            "total": 95747546103
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 93686353483, 
+            "time": "2020-03-04 22:30:00", 
+            "total": 93686353483
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 100553306248, 
+            "time": "2020-03-04 22:35:00", 
+            "total": 100553306248
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 104244810216, 
+            "time": "2020-03-04 22:40:00", 
+            "total": 104244810216
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 90709031101, 
+            "time": "2020-03-04 22:45:00", 
+            "total": 90709031101
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 86751553086, 
+            "time": "2020-03-04 22:50:00", 
+            "total": 86751553086
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 90933065776, 
+            "time": "2020-03-04 22:55:00", 
+            "total": 90933065776
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 84351945022, 
+            "time": "2020-03-04 23:00:00", 
+            "total": 84351945022
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 78260779275, 
+            "time": "2020-03-04 23:05:00", 
+            "total": 78260779275
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 100895594551, 
+            "time": "2020-03-04 23:10:00", 
+            "total": 100895594551
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 85369063940, 
+            "time": "2020-03-04 23:15:00", 
+            "total": 85369063940
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 76990231679, 
+            "time": "2020-03-04 23:20:00", 
+            "total": 76990231679
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 89604959624, 
+            "time": "2020-03-04 23:25:00", 
+            "total": 89604959624
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 81543875776, 
+            "time": "2020-03-04 23:30:00", 
+            "total": 81543875776
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 78600075091, 
+            "time": "2020-03-04 23:35:00", 
+            "total": 78600075091
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 75979917229, 
+            "time": "2020-03-04 23:40:00", 
+            "total": 75979917229
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 82738420942, 
+            "time": "2020-03-04 23:45:00", 
+            "total": 82738420942
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 80551481982, 
+            "time": "2020-03-04 23:50:00", 
+            "total": 80551481982
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 82065010361, 
+            "time": "2020-03-04 23:55:00", 
+            "total": 82065010361
+        }, 
+        {
+            "mkr-l2m.ncupdate.com": 63704596701, 
+            "time": "2020-03-05 00:00:00", 
+            "total": 63704596701
+        }
+    ]
+}
