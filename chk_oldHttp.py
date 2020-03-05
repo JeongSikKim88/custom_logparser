@@ -30,6 +30,11 @@ print(dickTime[0])
 
 test = json.dumps(dickTime, indent = 4, sort_keys=True)
 
+conv = json.loads(test)
+
+print(type(test))
+print(type(conv))
+print (conv[0])
 # print(type(dickTime))
 # print(json.dumps(dickTime, indent = 4, sort_keys=True))
 
