@@ -34,7 +34,8 @@ conv = json.loads(test)
 
 print(type(test))
 print(type(conv))
-print (conv[0])
+print (conv[1])
+print (conv[1][2])
 # print(type(dickTime))
 # print(json.dumps(dickTime, indent = 4, sort_keys=True))
 
