@@ -1,6 +1,9 @@
 import json # import json module
 
 
+
+
+
 def parser():
     with open('logs/json/20200304_232_pro.json') as json_file:
         json_data = json.load(json_file)
