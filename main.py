@@ -29,33 +29,43 @@ def report():
     date_from = request.args.get('date_from')
     date_to = request.args.get('date_to')
 
+
     if domain_name:
         domain_name = domain_name.lower()
-
-        print(domain_name)
-
         data = parser(domain_name, date_from, date_to)
         db[domain_name] = data
     else:
         return redirect("/")
     return render_template("report.html",
                            domain_name=domain_name,
+                           date_from=date_from,
+                           date_to=date_to,
                            data=data
                            )
 
 
 @app.route("/export")
 def export():
+    domain_name = request.args.get('domain')
+    date_from = request.args.get('date_from')
+    date_to = request.args.get('date_to')
+    print(domain_name, date_from, date_to)
+
+    print(db)
+
     try:
-        domain = request.args.get('domain')
-        date_from = request.args.get('date_from')
-        date_to = request.args.get('date_to')
-        if not domain:   
+        if not domain_name:
             raise Exception()
-        domain = domain.lower()
-        save_to_file(domain, date_from, date_to)
-        return send_file(f"{domain}?date_from=?date_to.csv")
+        domain_name = domain_name.lower()
+        result = db.get(domain_name)
+        if not result:
+            raise Exception()
+        save_to_file(result)
+        return send_file(f"{domain_name}.csv")
     except:
+        domain_name = domain_name.lower()
+        result = db.get(domain_name)
+        save_to_file(result)
         return redirect("/")
 
 
